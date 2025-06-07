@@ -17,3 +17,5 @@ Weighted Scores CSV: Outlines the results of the running POC Python file to unde
 
 HR-AI-Mate: Folder containing all codes/files for streamlit deployment of our project on a VM using dockers. This dashboard encapsulates the complete workflow for our project.
 This dashboard interactively exihibits the complete approach and implementation of our project.     
+
+Dashboard-Deployment-Readme: Contains step by step to replicate the dashboard on users VM. The complete code and files are present in HR-AI-Mate folder with the required dockers file. 
