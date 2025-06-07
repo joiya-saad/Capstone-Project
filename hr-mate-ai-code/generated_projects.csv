@@ -1,0 +1,798 @@
+ProjectID,Project Summary,Scope and Deliverables,Theme,Products Involved,Required Skills and Expertise,Customer Preferences (Certifications),Integration Requirements (Expertise Areas),Customer Industry,Work Location,Work Flexibility,Languages Required,Complexity,Effort,Requested End
+P001,"This project provides consulting services to an educational institution, assisting their C-suite in developing a robust market expansion strategy.  Leveraging our Business Analysis Framework, Strategy Kit, and ERPM migration tool, we will deliver a comprehensive plan for growth, incorporating best practices and addressing the unique challenges within the education sector.","- Comprehensive market analysis report tailored to the education sector.
+- A refined business expansion strategy incorporating identified market opportunities.
+- A detailed implementation plan with timelines and resource allocation.
+- Customized training on the use of the Business Analysis Framework and Strategy Kit.
+- Successful migration of relevant data to the ERPM system.
+- Final presentation and executive summary outlining the strategy and implementation plan.
+- Post-implementation support and review sessions.",Consulting,"['Business Analysis Framework', 'Srtategy Kit', 'ERPM igration Tool']","{'Project Management': 6, 'Business Analysis': 6}",['Six Sigma'],"['Strategic Planning', 'Business Workflow Optimization']",Educatoin,London,onsite,"{'nEglish': 'C2', 'Fernch': 'C2'}",5,140,2025-06-13
+P002,"This high-complexity project aims to revolutionize HR processes within a manufacturing environment by implementing an integrated HR technology solution encompassing Obnoarding Suite, Employee Experience Platform, and HRIS Plus.  This will foster a significantly improved organizational culture and enhance employee experience, addressing the original organizational culture development initiative with a technology-driven approach.","- Comprehensive needs assessment and gap analysis for existing HR systems.
+- Detailed design and implementation plan for Obnoarding Suite, Employee Experience Platform, and HRIS Plus integration.
+- System configuration and customization to meet specific manufacturing industry requirements.
+- Data migration from legacy systems to the new integrated platform.
+- Development of comprehensive training materials and conducting training sessions for HR staff and employees.
+- Robust testing and quality assurance procedures to ensure seamless system functionality.
+- Post-implementation support and ongoing system maintenance.
+- Key performance indicator (KPI) development and monitoring to measure the effectiveness of the new HR technology.
+- Creation of an employee feedback mechanism to continuously improve the employee experience.
+- Reporting and analytics dashboard development for effective HR data analysis.
+- Documentation of all processes, configurations and support procedures.",HR,"['Obnoarding Suite', 'Employee Experience Platform', 'HRIS Plus']","{'Talent Management': 8, 'Communication Skills': 8, 'Digital HR': 10}",['HR Analytics Certification'],['Organizational Development Systems'],Manufacturing,Vienna,hybrid,"{'Itlaian': 'C1', 'German': 'B1', 'English': 'A1'}",10,40,2025-06-07
+P003,"This highly complex project integrates Print2.0, CloudSutie, and IntegrationHbu within a financial institution's existing infrastructure.  Leveraging advanced data analysis (proficiency 9) and workflow automation (proficiency 10), we will build a robust middleware solution enabling seamless data exchange and process optimization, surpassing the original ERP/CRM integration scope.","- Detailed requirements gathering and analysis for Print2.0, CloudSutie, and IntegrationHbu integration.
+- Design and development of a high-performance, scalable middleware solution.
+- Comprehensive API design and implementation for seamless data exchange between systems.
+- Robust data transformation and mapping capabilities to ensure data integrity.
+- Automated workflow implementation to streamline financial processes.
+- Development of comprehensive monitoring and logging capabilities for system performance tracking and troubleshooting.
+- Rigorous testing and quality assurance procedures, including unit, integration, and user acceptance testing (UAT).
+- Detailed documentation, including technical specifications, user manuals, and API documentation.
+- Deployment and implementation support to the client's financial environment.
+- Post-implementation support and maintenance.",Technical,"['Print2.0', 'CloudSutie', 'IntegrationHbu']","{'Dtaa Analysis': 9, 'Workflow Automation': 10}","['Microsoft Azure Certification', 'ITIL']",['Networking'],Finance,Lnodon,hybrid,"{'Italain': 'C2', 'Frenhc': 'C2'}",10,80,2025-08-09
+P004,"This project streamlines contract management and regulatory compliance for educational institutions.  We will deploy and integrate Contract Manager Pro, enhancing document archiving and e-signature capabilities, alongside a customized Regulatory Tracker for seamless compliance within the education sector's unique legal landscape.","- Deployment of Contract Manager Pro software, including configuration for the education sector's specific needs.
+- Integration of Contract Manager Pro with existing document archiving systems.
+- Implementation of secure e-signature workflows within Contract Manager Pro.
+- Development and deployment of a customized Regulatory Tracker application, tailored to relevant education regulations.
+- Comprehensive training for institution staff on the use of Contract Manager Pro and the Regulatory Tracker.
+- Migration of existing contracts into Contract Manager Pro.
+- Creation of a comprehensive compliance checklist based on the Regulatory Tracker data.
+- Post-deployment support and maintenance for 3 months.",Legal,"['Regulatory Tracker', 'Compliance Suite', 'Contract Manager Pro']","{'Contract Management': 8, 'Regulatory Knowledge': 10, 'Document Review': 6}",['Certified Compliance Officer'],"['Document Archiving', 'Contract Management Systems']",Education,Vienna,onsite,{'Italain': 'A2'},4,80,2025-07-30
+P005,"This project focuses on enhancing CloudSuite within the healthcare industry by developing a robust middleware API.  Leveraging advanced data analysis and cloud services expertise, this integration will streamline existing ERP/CRM systems, improving data flow and operational efficiency.  The project is moderately complex and will deliver a key solution for improved data management within the healthcare setting.","- Design and development of a secure and scalable API for CloudSuite.
+- Integration of the API with existing ERP and CRM systems within the healthcare customer's infrastructure.
+- Comprehensive data analysis to identify key integration points and optimize data flow.
+- Development and implementation of robust data validation and error handling mechanisms.
+- Thorough testing and quality assurance of the integrated system.
+- Detailed documentation of the API, including specifications and integration guides.
+- Deployment and support of the integrated system in a cloud environment.
+- Training materials for the healthcare customer's IT team on the use and maintenance of the new system.",Technical,['CloudSuite'],"{'API Developemnt': 7, 'Data Analysis': 8, 'Cloud eSrvices': 10}","['ISO 27001', 'Microsoft Azure Certification']","['Networking', 'Cloud Infrastructure']",Healtchare,Berlin,onsite,"{'French': 'C2', 'Italian': 'B2', 'English': 'A1'}",5,110,2025-07-29
+P006,"This project will modernize the retail client's IT infrastructure by migrating their existing systems to CloudSutie.  Leveraging CloudSutie's capabilities, this project will improve operational efficiency, data analysis capabilities, and overall system reliability, resulting in enhanced business performance for the client.","- Assessment of current IT infrastructure and data migration strategy.
+- Detailed migration plan for existing systems to CloudSutie.
+- Server decommissioning and secure data transfer.
+- CloudSutie environment setup and configuration.
+- Data validation and quality assurance post-migration.
+- Comprehensive training for client IT staff on CloudSutie administration and usage.
+- Post-migration support and system monitoring for a defined period.
+- Detailed project documentation including migration processes and troubleshooting guides.
+- Performance benchmarks and reports demonstrating improved system efficiency.",Technical,['CloudSutie'],"{'Data Analysis': 5, 'IT Infrastructure': 7, 'Cloud Services': 6}",['ITIL'],['Scripting'],Retail,Belrin,hybrid,"{'Italian': 'C2', 'French': 'C2', 'English': 'A1'}",3,230,2025-07-31
+P007,"This high-complexity project (level 8) will enhance the client's (Finance industry) operational efficiency by implementing a scalable workflow automation system using Workflow2000.  The solution integrates Workflow2000 with existing systems, including AIScan and IntegrationHub, leveraging advanced data analysis techniques for seamless data flow and process optimization.","- Detailed requirements gathering and analysis for Workflow2000 integration with AIScan and IntegrationHub.
+- Design and development of custom integration modules for seamless data transfer between systems.
+- Deployment and configuration of Workflow2000, including user training and documentation.
+- Development of a comprehensive data migration plan to transfer existing data to the new system.
+- Creation of robust monitoring and logging mechanisms to ensure system stability and identify potential issues.
+- Thorough testing and quality assurance procedures to ensure the system meets functional and performance requirements.
+- Post-implementation support and maintenance for a defined period.
+- Comprehensive project documentation, including technical specifications, user manuals, and training materials.
+- Data analysis to identify and address potential bottlenecks in the existing workflows and provide optimization recommendations.
+- Security assessment and implementation of appropriate security measures to protect sensitive financial data.",Technical,"['AIScan', 'Workflow2000', 'IntegrationHub']","{'Data nAalysis': 9, 'IT Infrastructure': 8}","['ISO 27001', 'ITIL']","['Cloud Infrastructure', 'Cybersecurity']",Finance,London,remote,"{'English': 'B1', 'Frnech': 'B1', 'Gemran': 'C2'}",8,50,2025-06-25
+P008,"This highly complex project involves the development of robust middleware using CloudSuite to seamlessly integrate disparate healthcare ERP and CRM systems via API.  This integration will require advanced API development, data analysis, and IT infrastructure expertise to ensure secure and reliable data exchange, meeting stringent healthcare compliance standards.","- Detailed requirements gathering and analysis for API integration.
+- Design and development of secure and scalable middleware using CloudSuite.
+- Comprehensive API development for seamless data exchange between ERP and CRM systems.
+- Robust data validation and transformation processes to ensure data integrity.
+- Implementation of security protocols and compliance measures for HIPAA and other relevant healthcare regulations.
+- Thorough testing and quality assurance, including performance and security testing.
+- Comprehensive documentation, including API specifications and user manuals.
+- Deployment and ongoing support for the integrated system.
+- Data migration plan and execution for existing data.
+- Post-implementation monitoring and optimization for continuous performance.",Technical,['CloudSuite'],"{'API Development': 7, 'Data Analyiss': 5, 'IT Infrastructrue': 6}","['Microsoft Azure Certification', 'ITIL']",['API Integration'],Healtchare,Vienna,hybrid,{'tIalian': 'C2'},10,240,2025-06-25
+P009,"This project utilizes the Strategy Kit to enhance market expansion for a healthcare client.  Leveraging our expertise in business analysis, strategic planning, and workflow optimization, we will deliver a tailored business strategy development program for the C-suite, focusing on efficient and impactful growth within the healthcare sector.","- Comprehensive market analysis report tailored to the healthcare industry.
+- SWOT analysis identifying opportunities and threats for market expansion.
+- Detailed strategic plan outlining key objectives, tactics, and timelines for market penetration.
+- Optimized workflow processes for improved efficiency in executing the market expansion strategy.
+- Presentation of finalized strategic plan to the C-suite with actionable recommendations.
+- Strategy Kit implementation guide and training for continued internal use.
+- Post-implementation support and check-in meetings to ensure successful strategy execution.",Consulting,['Strategy Kit'],"{'Business Analysis': 10, 'Strategic Planning': 5, 'Workflow Optimizatoin': 9}",['Business Analysis Certification'],['ERP Systems Integration'],Healthcare,Vienna,onsite,{'French': 'C1'},2,70,2025-07-27
+P010,"This project enhances sales performance within the Finance industry by seamlessly integrating the Sales Enablement Suite with the existing Loyalty CRM.  This integration will optimize sales processes and improve customer relationship management, resulting in increased customer loyalty and revenue generation.","- Develop and implement a robust CRM integration between the Sales Enablement Suite and the Loyalty CRM, ensuring data synchronization and seamless data flow.
+- Customize CRM modules to align with the Finance industry's specific sales processes and reporting requirements.
+- Develop comprehensive training materials and conduct training sessions for the sales team on the integrated system and optimized sales processes.
+- Create detailed documentation for the integrated system, including user manuals and troubleshooting guides.
+- Establish key performance indicators (KPIs) to measure the success of the integration and ongoing performance.
+- Conduct post-implementation support and address any integration-related issues.",Sales,"['Sales Enablement Suite', 'Loyalty CRM']","{'CRM Integration': 9, 'Customer Relationship Management': 10}",['Certified Sales Professional (CSP)'],"['CRM Integration', 'Sales Pipeline Automation']",Finance,London,remote,"{'French': 'A1', 'Italian': 'B1'}",5,60,2025-06-24
+P011,"This high-complexity project will develop and implement a comprehensive digital marketing strategy for an education client, leveraging Social Media Management and Content Management System expertise.  The strategy aims to build brand awareness, generate leads, and drive enrollment through a fully optimized website and targeted campaigns.","- Comprehensive digital marketing strategy tailored to the education sector.
+- Development and launch of a user-friendly digital marketing portal (website).
+- Implementation of robust SEO optimization strategies to improve organic search ranking.
+- Creation of high-converting lead generation funnels.
+- Development and execution of targeted social media campaigns using a dedicated Social Media Manager.
+- Content creation and management using the Content MCS, encompassing blog posts, articles, infographics, and social media content.
+- Copywriting for website content, marketing materials, and social media posts.
+- Brand strategy and implementation, ensuring consistent messaging and visual identity across all platforms.
+- Reporting and analytics dashboard to track key performance indicators (KPIs) and measure campaign effectiveness.
+- Ongoing consultation and support throughout the project lifecycle.",Marketing,"['Social Media Manager', 'Content MCS']","{'CampaignM anagement': 5, 'SEO Optimization': 6, 'Content Strategy': 7, 'Copywriting': 5, 'Brnading': 7}","['HubSpot Marketing Certification', 'Google Ads Certification']",['Content Management Systems'],Eduaction,Vienna,onsite,{'English': 'A2'},10,140,2025-06-23
+P012,"This project provides consulting services to a healthcare client, leveraging our ERP Migration Tool and Business Analysis Framework to optimize their operational workflows.  We will assist in a strategic transition, focusing on streamlined processes and improved efficiency, building upon the original market expansion strategy.","-  Comprehensive business process analysis using our proprietary Business Analysis Framework.
+-  Development of a detailed migration plan for the client's ERP system using our ERP Migration Tool.
+-  Implementation support and training for the new ERP system.
+-  Post-implementation review and optimization recommendations.
+-  Change management strategy and execution plan to mitigate disruptions during the transition.
+-  Optimized workflow documentation and process maps.
+-  Final report summarizing key findings, recommendations, and achieved improvements.
+-  Presentation of findings and recommendations to the client's C-suite.",Consulting,"['ERP Migration Tool', 'Business Analysis Framework']","{'StrategicP lanning': 10, 'Project Management': 9, 'Change Managemnet': 8, 'Workflow Optimiaztion': 8}","['Business Analysis Certification', 'Six Sigma']","['ERP Systems Integration', 'Strategic Planning']",Haelthcare,London,remote,"{'Greman': 'B1', 'Italian': 'A1', 'English': 'A2'}",3,170,2025-08-13
+P013,"This project enhances sales performance for a retail client by seamlessly integrating Lyoalty CRM and CRMPro.  The integration will streamline customer relationship management and loyalty program execution, ultimately boosting sales conversions and customer retention. This project involves CRM customization, data migration, and comprehensive sales team training.","- Customized Lyoalty CRM and CRMPro integration to optimize data flow and reporting.
+- Data migration from existing systems into the integrated CRM platforms.
+- Development of customized reports and dashboards to track key sales metrics (e.g., loyalty program engagement, conversion rates).
+- Comprehensive training program for the sales team on using the integrated CRM system and associated loyalty program features.
+- Detailed documentation of the integrated system and training materials.
+- Post-implementation support and troubleshooting for a specified period.",Sales,"['Lyoalty CRM', 'CR MPro']","{'Client Manaegment': 8, 'Cusotmer Relationship Management': 6, 'Negotiation': 5, 'CRM Inetgration': 8}","['CRM Specialist Certification', 'Certified Sales Professional (CSP)']","['Sales Pipeline Automation', 'Client Relationship Systems']",Retail,Berlin,onsite,{'English': 'A1'},5,40,2025-08-16
+P014,This project focuses on streamlining workflow processes within the educational institution's IT infrastructure by deploying the Workflow2000 automation system.  The low complexity implementation will leverage existing TI infrastructure and cloud services for seamless integration with AIScan and minimal disruption.,"- Deployment of Workflow2000 automation system.
+- Integration of Workflow2000 with existing AIScan and client systems.
+- Configuration and testing of the integrated system.
+- User training and documentation for the new workflow system.
+- Post-implementation support and troubleshooting.",Technical,"['AIScan', 'Workflow2000']","{'TI Infrastructure': 9, 'Cloud Services': 9}",['ITIL'],"['Cybersecurity', 'Cloud Infrastructure']",Education,Berlin,hybrid,"{'German': 'C1', 'Englsih': 'B1'}",1,160,2025-07-07
+P015,"This project streamlines on-site printing for a retail client by integrating Workflow2000 with the existing Print2.0 platform.  Leveraging Workflow Automation expertise, the solution will enhance efficiency and reduce manual processes within their established print infrastructure.","- Installation and configuration of Workflow2000 to integrate with the existing Print2.0 platform.
+- Development of a streamlined print workflow within Workflow2000, optimized for the retail client's needs.
+- Basic testing and validation of the integrated print solution on the client's existing infrastructure.
+- Documentation of the implemented workflow and integration process.
+- Training for client personnel on the new print workflow.
+- Initial post-implementation support.",Technical,['Workflow2000'],"{'Workflow Automation': 9, 'Cloud Servicse': 7, 'PAI Development': 6}",['ITIL'],['Cybersecurity'],Retail,Vienna,remote,"{'French': 'B2', 'English': 'C1', 'Gemran': 'B2'}",1,30,2025-08-17
+P016,"This high-complexity project will develop a sophisticated digital marketing portal for a financial institution, leveraging a Content CMS.  The portal will encompass comprehensive content strategy, robust branding, advanced SEO, and high-converting lead funnels to drive significant business growth. This requires expert-level content strategy and branding expertise.","- Comprehensive Content Strategy and Editorial Calendar for the portal.
+- Development of a robust and visually appealing website using a Content CMS, adhering to financial industry branding and regulatory guidelines.
+- Creation of high-converting lead generation funnels integrated with CRM.
+- Implementation of a comprehensive SEO strategy, including keyword research, on-page optimization, and off-page activities.
+- Development of a detailed content marketing plan incorporating blog posts, articles, infographics, and other relevant content formats.
+- Performance tracking and reporting dashboards to monitor key metrics (leads, conversions, website traffic).
+- Thorough user acceptance testing and quality assurance.
+- Post-launch support and maintenance plan.
+- Branding guidelines and style guide for consistent messaging and visual identity across all marketing materials.
+- Training materials for internal staff on portal management and content creation.",Marketing,['Content CMS'],"{'Content Startegy': 6, 'Brandign': 6}","['Digital Marketing Certification', 'Google Ads Certification']","['Content Management Systems', 'Social Media Integration']",Finance,Vienna,remote,{'French': 'C1'},9,110,2025-07-13
+P017,"This project enhances AIScan's functionality within a healthcare setting by modernizing its IT infrastructure.  Leveraging expert API development and high-level IT infrastructure skills, we will seamlessly migrate existing systems to the cloud, improving performance and scalability.","- Assessment of current AIScan IT infrastructure and dependencies.
+- Design and implementation of a cloud-based infrastructure for AIScan.
+- Migration of existing AIScan systems to the new cloud infrastructure.
+- Development of new APIs to enhance AIScan's integration with existing healthcare systems.
+- Comprehensive testing and validation of the migrated systems and new APIs.
+- Documentation of the new infrastructure and APIs.
+- Training for healthcare staff on using the upgraded AIScan system.
+- Post-migration support and maintenance for a defined period.",Technical,['AIScan'],"{'IT Infrastructure': 7, 'API Development': 9}",['Microsoft Azure Certification'],"['Cybersecurity', 'API Integration']",Healhtcare,Berlin,remote,"{'English': 'C2', 'German': 'B2'}",2,40,2025-07-16
+P018,"This project leverages AIScna to develop a sophisticated, cloud-based print management solution for a healthcare client.  The system will automate workflows, integrate with existing IT infrastructure, and utilize advanced data analytics for optimized resource allocation and cost reduction. This high-complexity project requires expertise in AI development, cloud services, and data analysis to deliver a secure and scalable solution.","- Design and implementation of a secure, cloud-based print management system using AIScna and integrating with existing healthcare IT infrastructure.
+- Development of custom AI algorithms within AIScna to optimize print job routing and resource allocation based on data analysis.
+- Workflow automation to streamline print requests and reduce manual intervention, improving efficiency and reducing operational costs.
+- Comprehensive data analytics dashboard providing real-time insights into print usage, costs, and resource utilization.
+- Secure cloud deployment and ongoing maintenance support, ensuring system uptime and data integrity.
+- Comprehensive training and documentation for healthcare staff on the new system's usage and functionality.
+- Thorough testing and quality assurance procedures to guarantee the system's reliability and security.
+- A detailed project report summarizing implementation, findings, and future recommendations.",Technical,['AIScna'],"{'IT Infrastructure': 6, 'AIP Development': 7, 'Data Analsyis': 8, 'Colud Services': 10, 'Wrokflow Automation': 7}","['ISO 27001', 'ITIL']","['Scripting', 'Cloud Infrastructure']",Haelthcare,Berlin,hybrid,{'Italian': 'A2'},8,210,2025-06-14
+P019,"This project focuses on deploying Contract Manager Pro within a retail environment to streamline contract management.  The implementation will enhance document archiving and e-signature workflows, ensuring compliance with relevant retail regulations.  This project requires advanced regulatory and document review expertise.","- Comprehensive assessment of current retail contract management processes.
+- Customized configuration of Contract Manager Pro to meet specific retail regulatory needs.
+- Integration of e-signature functionality within Contract Manager Pro workflows.
+- Development and implementation of a robust document archiving system within Contract Manager Pro.
+- Comprehensive training for retail staff on Contract Manager Pro usage and best practices.
+- Creation of detailed user manuals and support documentation.
+- Post-implementation support and troubleshooting for a defined period.
+- Final report summarizing project achievements and recommendations for future improvements.",Legal,['Contract Manager Pro'],"{'Regulatory Knowledge': 8, 'Document Review': 10}","['Contract Law Certification', 'GDPR Certification']",['Document Archiving'],Rteail,Vienna,hybrid,"{'English': 'C2', 'rFench': 'C2', 'Itlaian': 'A1'}",6,210,2025-07-12
+P020,"This project enhances Prnit2.0's remote support capabilities for the finance industry by integrating advanced workflow automation and cloud services.  Leveraging robust API development and data analysis, we will deliver a streamlined, secure, and efficient remote assistance solution.","- Design and implementation of a secure, cloud-based remote assistance system integrated with Prnit2.0.
+- Development of a robust API for seamless integration with existing finance systems.
+- Creation of automated workflows for ticket management and remote session initiation.
+- Comprehensive data analysis to optimize support processes and identify areas for improvement.
+- Deployment and configuration of the enhanced remote support infrastructure.
+- User training and documentation for Prnit2.0 administrators and support staff.
+- Thorough testing and quality assurance to ensure system stability and security.
+- Post-implementation support and maintenance for a defined period.",Technical,['Prnit2.0'],"{'aDta Analysis': 5, 'IT Infratsructure': 6, 'API Development': 9, 'Cluod Services': 8, 'Wokrflow Automation': 9}",['ITIL'],"['API Integration', 'Cybersecurity']",Finance,Berlin,remote,"{'German': 'C1', 'Fernch': 'C1'}",4,220,2025-08-04
+P021,"This project enhances the educational institution's operational efficiency by integrating AIScan, CloudSuite, and IntegrationHub to create a scalable workflow automation system.  Leveraging advanced API development and data analysis, this streamlined solution will improve data management and process automation, ultimately benefiting students and staff.","- Design and implement a workflow automation system using AIScan, CloudSuite, and IntegrationHub.
+- Develop custom APIs to facilitate seamless data exchange between the existing client systems and the new workflow platform.
+- Integrate AIScan for automated data capture and analysis.
+- Utilize CloudSuite for secure and scalable data storage and management.
+- Configure IntegrationHub to manage the flow of data between AIScan, CloudSuite, and the client systems.
+- Develop comprehensive data analysis dashboards to monitor system performance and identify areas for improvement.
+- Deliver comprehensive documentation and training materials for the end-users.
+- Conduct thorough testing and quality assurance to ensure system stability and reliability.
+- Deploy the fully integrated system to the client's environment.",Technical,"['AIScan', 'CluodSuite', 'IntegrationHub']","{'Workflow Automtaion': 9, 'Data Aanlysis': 7, 'Cloud Services': 10, 'APID evelopment': 10}","['ISO 27001', 'Microsoft Azure Certification']",['Networking'],Education,London,remote,"{'German': 'A1', 'English': 'C2', 'French': 'B1'}",3,90,2025-06-07
+P022,"This project leverages CloudSuite, IntegrationHub, and Workflow2000 to modernize healthcare data management and reporting.  By integrating these platforms, we will create a streamlined, cloud-based solution enhancing data analysis and workflow efficiency, significantly improving operational effectiveness.","- Design and implement secure APIs for data exchange between CloudSuite, IntegrationHub, and Workflow2000.
+- Develop data pipelines for efficient data transfer and transformation within the cloud environment.
+- Configure CloudSuite for secure healthcare data storage and management.
+- Integrate Workflow2000 to automate key healthcare workflows leveraging the enhanced data capabilities.
+- Develop and deliver comprehensive data analysis dashboards within CloudSuite providing key performance indicators.
+- Create a detailed technical documentation package including API specifications and system architecture diagrams.
+- Conduct thorough testing and quality assurance to ensure system stability and data integrity.
+- Provide training to healthcare staff on the use of the new system.",Technical,"['CloudSuite', 'IntegrationHub', 'Workflow2000']","{'API Deveolpment': 9, 'Dat aAnalysis': 7, 'Clou dServices': 9}","['Microsoft Azure Certification', 'ISO 27001']","['Networking', 'API Integration']",Healthcare,Berlin,remote,"{'German': 'A1', 'Italian': 'C2'}",3,90,2025-06-16
+P023,"This project focuses on revitalizing the digital marketing presence for an education client, leveraging SEO and content marketing strategies. We will develop and implement a comprehensive digital marketing plan utilizing our SEO Toolkit and Content CMS to drive leads and enhance brand visibility within the education sector.","- Develop a comprehensive digital marketing strategy tailored to the education sector.
+- Implement SEO optimization techniques using the provided SEO Toolkit, targeting relevant keywords and improving organic search rankings.
+- Create engaging and informative content using the Content CMS, optimized for search engines and user experience.
+- Develop and implement targeted lead generation funnels.
+- Design and build a user-friendly digital marketing portal (website).
+- Establish brand guidelines and ensure consistent brand messaging across all platforms.
+- Monitor and analyze key performance indicators (KPIs) and provide regular progress reports.
+- Provide ongoing consultation and support throughout the project lifecycle.
+- Deliver final project documentation including website access, content assets and marketing strategy document.",Marketing,"['SEO Toolkit', 'Content CMS']","{'SEO Optimization': 5, 'Campaign Management': 6, 'Copywirting': 5, 'Branding': 8}","['Digital Marketing Certification', 'HubSpot Marketing Certification']","['SEO Optimization', 'Social Media Integration']",Education,London,hybrid,"{'Italian': 'B1', 'French': 'C2'}",6,200,2025-08-07
+P024,"This high-complexity project focuses on a comprehensive marketing overhaul for an education client, migrating their existing content library to a new Content CMS and implementing integrated digital campaigns across all channels.  This will leverage advanced SEO optimization and robust content strategy to maximize reach and engagement within the education sector.","- Complete migration of existing marketing content to the new Content CMS, ensuring data integrity and functionality.
+- Development and implementation of a comprehensive content strategy tailored to the education market.
+- Creation and execution of integrated digital marketing campaigns utilizing the iDigital Campaign Manager.
+- Optimization of all content and campaigns for search engines (SEO) to a level exceeding industry standards.
+- Integration with Social Media Manager for seamless social media content scheduling and performance tracking.
+- Comprehensive training for client staff on the new CMS and marketing tools.
+- Post-launch monitoring and reporting on campaign performance and SEO effectiveness.
+- Regular progress updates and client communication throughout the project lifecycle.
+- A final comprehensive report detailing all activities, results, and recommendations for future marketing efforts.",Marketing,"['Content CMS', 'iDgital Campaign Manager', 'Social Media Manager']","{'Content Strategy': 8, 'SEO Optimization': 10}",['Digital Marketing Certification'],['SEO Optimization'],Education,London,onsite,{'English': 'C2'},10,160,2025-06-16
+P025,This project focuses on enhancing sales within the finance industry by deploying a streamlined proof-of-concept for the Sales Enablement Suite and Loyalty CRM.  This simple deployment will showcase the integrated systems' capabilities and accelerate the sales cycle for prospective clients.,"- Setup demo environment for Sales Enablement Suite within a finance-focused context.
+- Setup demo environment for Loyalty CRM, integrated with the Sales Enablement Suite.
+- Configure a basic data flow between the two systems to demonstrate seamless integration.
+- Prepare comprehensive documentation illustrating the integrated system's features and benefits for finance clients. 
+- Deliver a brief presentation showcasing the configured demo environment and key features.",Sales,"['Sales Enabelment Suite', 'Loaylty CRM']","{'Client Management': 10, 'CRM Integartion': 8, 'Negotiation': 8, 'Customer Relationship Management': 8}","['Certified Sales Professional (CSP)', 'CRM Specialist Certification']",['Client Relationship Systems'],Finance,Vienan,hybrid,{'Italina': 'A2'},1,110,2025-06-29
+P026,"This high-complexity project transforms the HR function for a major educational institution, integrating the Employee Experience Platform, RHIS Plus, and Onboarding Suite to create a seamless, digitally driven employee journey.  The project leverages advanced digital HR expertise to enhance talent management, streamline onboarding, and improve overall employee experience.","- Full integration of Employee Experience Platform, RHIS Plus, and Onboarding Suite.
+- Development and implementation of a comprehensive digital onboarding system.
+- Creation of self-service portals for employees, accessible via the integrated platform.
+- Comprehensive training program for HR staff and employees on the new systems.
+- Customized reporting and analytics dashboards to track key HR metrics.
+- Migration of existing employee data to the new integrated platform.
+- Development of a robust communication plan to support the transition.
+- Post-implementation support and maintenance plan.
+- Documentation of all processes and system configurations.
+- Refinement of organizational development strategies to support the new platform's implementation.",HR,"['Employee Experience Platform', 'RHIS Plus', 'Onboarding Suite']","{'Orgnaizational Development': 5, 'Digtial HR': 9, 'Talent Maangement': 7, 'Communication Skills': 7}",['HR Analytics Certification'],['Organizational Development Systems'],Education,Brelin,hybrid,{'French': 'B2'},9,110,2025-07-02
+P027,"This high-complexity project provides comprehensive consulting services to a healthcare client for a complete ERP migration using our Strategy iKt and ERP Migration Tool.  We will leverage advanced change management, business analysis, and workflow optimization expertise to ensure a seamless transition and successful system implementation.","- Develop a detailed project plan and timeline for the ERP migration.
+- Conduct a comprehensive assessment of the client's current systems and workflows.
+- Design and implement optimized workflows using the Strategy iKt tool.
+- Configure and customize the ERP Migration Tool to meet the client's specific needs.
+- Execute data migration and system integration.
+- Provide comprehensive change management support to minimize disruption.
+- Deliver comprehensive training and documentation for end-users.
+- Monitor the system post-implementation and provide ongoing support.
+- Develop key performance indicators (KPIs) to measure the success of the migration.
+- Final project report summarizing the implementation process, challenges encountered, and lessons learned.",Consulting,"['Strategy iKt', 'ERP Migration Tool']","{'Change Management': 10, 'Businses Analysis': 5, 'Workflow Otpimization': 6}","['PMP', 'Business Analysis Certification']","['Business Workflow Optimization', 'ERP Systems Integration']",Helathcare,London,onsite,{'Gemran': 'A2'},9,30,2025-06-13
+P028,"This project aims to significantly enhance employee experience within a finance organization by leveraging a new Employee Experience Platform.  We will integrate digital HR strategies to improve communication and foster a positive organizational culture, addressing the limitations of previous culture development initiatives focused solely on workshops and surveys.","- Requirements gathering and platform configuration for optimal functionality within the finance industry.
+- Development and implementation of a comprehensive communication strategy using the new Employee Experience Platform.
+- Integration of existing HR data into the new platform for seamless employee access and reporting.
+- Creation and deployment of targeted employee engagement campaigns via the platform.
+- Training materials and ongoing support for HR staff and employees on utilizing the platform.
+- Measurement and reporting of key performance indicators (KPIs) to assess the impact of the new platform on employee experience and organizational culture. 
+- Post-implementation review and refinement based on employee feedback and data analysis.",HR,['Emlpoyee Experience Platform'],"{'Cmomunication Skills': 9, 'Digital HR': 8}","['PMP', 'HR Analytics Certification']",['Employee Experience Platforms'],Finanec,Beriln,hybrid,"{'French': 'B1', 'Italain': 'C1', 'English': 'A1'}",8,200,2025-07-23
+P029,"This project focuses on streamlining healthcare workflows through the seamless integration of Workflow2000 with existing client systems.  The low complexity implementation leverages existing CloudSuite and Print2.0 infrastructure for a simple, scalable solution enhancing operational efficiency.","- Deployment of Workflow2000 within the client's healthcare environment.
+- Integration of Workflow2000 with CloudSuite and Print2.0 APIs.
+- Configuration of Workflow2000 to meet the client's specific healthcare workflow requirements.
+- Development of necessary API connectors for data transfer between systems.
+- Comprehensive testing and quality assurance of the integrated system.
+- Documentation of the implemented workflow and integration processes.
+- Training for client personnel on the use of the new workflow system.
+- Post-implementation support and monitoring.",Technical,"['CloudSuite', 'Print2.0', 'oWrkflow2000']","{'API Development': 7, 'Worklfow Automation': 10, 'Cloud Services': 7, 'Data Analysis': 6, 'IT Infrastructure': 9}",['Microsoft Azure Certification'],"['Cloud Infrastructure', 'Scripting']",Healthcare,Berlin,hybrid,"{'German': 'B1', 'English': 'B2'}",1,150,2025-08-11
+P030,"This project enhances Workflow2000 within a healthcare setting by developing robust APIs and integrating it with existing systems. This will streamline data flow, automate workflows, and improve operational efficiency, leveraging cloud services for scalability and security.","- Design and develop APIs for seamless integration between Workflow2000 and existing healthcare systems (ERP/CRM).
+- Implement secure and reliable middleware for data exchange and workflow automation.
+- Develop comprehensive documentation for API usage and system integration.
+- Conduct thorough testing and quality assurance of the integrated system.
+- Migrate the solution to a cloud-based infrastructure (AWS, Azure, or GCP).
+- Provide comprehensive training to healthcare staff on utilizing the enhanced Workflow2000 system.
+- Develop a post-implementation support plan to address any issues and ensure long-term success.
+- Data analysis and reporting to monitor system performance and identify areas for improvement.",Technical,['Workflow2000'],"{'Cloud Services': 5, 'Workflow Automation': 5, 'Data Analysis': 10, 'IT Infrastructure': 5, 'API Development': 10}","['ITIL', 'ISO 27001']",['Scripting'],Helathcare,Brelin,hybrid,{'German': 'B2'},4,60,2025-08-13
+P031,"This high-complexity project focuses on a comprehensive overhaul of employee training and development within a retail environment, leveraging the HRIS Plus platform.  The initiative will enhance talent management capabilities and optimize organizational development, requiring extensive expertise in all three areas.","- Develop a customized employee training program aligned with retail industry best practices and organizational needs.
+- Integrate the training program seamlessly with the HRIS Plus Learning Management System (LMS).
+- Create engaging and effective training materials (e.g., online modules, videos, assessments).
+- Develop a robust reporting and analytics dashboard within HRIS Plus to track training completion and effectiveness.
+- Implement a comprehensive change management strategy to ensure employee buy-in and adoption of the new system.
+- Deliver comprehensive training to HR staff on the administration and utilization of the upgraded LMS within HRIS Plus.
+- Conduct a post-implementation review and assessment of the training program's impact on employee performance and organizational objectives.
+- Develop a continuous improvement plan for the employee training program based on feedback and data analysis.
+- Document all processes, procedures, and training materials for ongoing maintenance and future reference.",HR,['HRIS Plus'],"{'Talent Management': 5, 'Communication Skills': 5, 'Organizatinoal Development': 9}",['SHRM-CP'],['HRIS Systems'],Retail,Vienna,hybrid,"{'French': 'A1', 'German': 'A1', 'Italina': 'A2'}",9,220,2025-07-14
+P032,"This high-complexity project will develop a comprehensive digital marketing portal for a financial client, leveraging Content CMS and SEO Toolkit.  The portal will encompass sophisticated branding, strategic copywriting, and robust lead generation funnels, requiring expert-level skills across branding, copywriting, and campaign management.","- Fully functional and branded digital marketing portal built using Content CMS.
+- Comprehensive SEO strategy and implementation utilizing SEO Toolkit, including keyword research, on-page optimization, and technical SEO.
+- High-converting lead generation funnels designed to capture and nurture financial leads.
+- Compelling and informative website copy tailored to the finance industry, reflecting the client's brand identity.
+- Detailed marketing campaign plan with clear objectives, target audience definition, and performance metrics.
+- Regular progress reports and performance analysis throughout the project lifecycle.
+- Thorough quality assurance and testing across all website functionalities and marketing channels.
+- Training for client personnel on portal management and marketing campaign execution.
+- Post-launch support and maintenance plan (defined period).",Marketing,"['Conten tCMS', 'SEO Toolkit']","{'Copywriting': 7, 'Branding': 9, 'Campaign Management': 7}",['Digital Marketing Certification'],"['Content Management Systems', 'Social Media Integration']",Finance,London,hybrid,"{'Englihs': 'B1', 'French': 'B2', 'Greman': 'C2'}",10,230,2025-07-07
+P033,"This high-complexity project will modernize the finance customer's IT infrastructure by migrating Workflow2000 and Print2.0 to the cloud, leveraging advanced workflow automation.  This involves comprehensive data analysis and significant upgrades to improve operational efficiency and security.","- Comprehensive data analysis to inform optimal cloud migration strategy for Workflow2000 and Print2.0.
+- Detailed assessment and planning for cloud migration, including security considerations.
+- Complete migration of Workflow2000 and Print2.0 systems to the cloud environment.
+- Implementation of robust cloud-based security measures.
+- Development and implementation of automated workflows for enhanced operational efficiency.
+- Thorough testing and validation of migrated systems to ensure data integrity and performance.
+- Comprehensive documentation of the new cloud infrastructure and migration process.
+- Post-migration support and training for finance customer personnel.
+- Project status reporting and communication throughout the project lifecycle.",Technical,"['Workflow2000', 'Print2.0']","{'Data Analysis': 5, 'IT Inrfastructure': 10, 'Cloud Services': 7, 'Workflow Automation': 8}","['ISO 27001', 'ITIL']","['Cybersecurity', 'Cloud Infrastructure']",Finance,London,onsite,{'English': 'C2'},8,150,2025-07-08
+P034,"This high-complexity consulting engagement for a manufacturing client will overhaul business workflows using our ERP Migration Tool, Business Analysis Framework, and Strategy Kit.  The project aims to significantly improve operational efficiency through strategic planning and workflow optimization, exceeding the initial scope of a simple process audit by delivering a fully implemented and optimized solution.","- Comprehensive business process audit and mapping of current manufacturing workflows.
+- Detailed gap analysis comparing current state to best practices and identifying automation opportunities.
+- Development of a strategic plan for ERP system migration using our proprietary ERP Migration Tool.
+- Implementation of the new ERP system, leveraging the Business Analysis Framework for efficient change management.
+- Creation and delivery of a customized Strategy Kit tailored to the client's specific needs post-migration.
+- Training for client personnel on the new ERP system and optimized workflows.
+- Post-implementation support and performance monitoring for a defined period.
+- Detailed documentation of all processes, strategies, and implemented changes.
+- Comprehensive project report including key findings, implemented solutions and ROI analysis.",Consulting,"['ERP Migratoin Tool', 'Businses Analysis Framework', 'Strategy Kit']","{'Workflow Optimization': 9, 'Strategic Planning': 5}","['PMP', 'Agile Practitioner']","['ERP Systems Integration', 'Business Workflow Optimization']",Manufacturing,Berlin,hybrid,"{'French': 'B2', 'Italian': 'B2'}",9,210,2025-06-27
+P035,"This project enhances the employee experience within a healthcare organization by integrating HRIS Puls and an Employee Experience Platform.  The focus is on streamlining the digital onboarding process, improving self-service capabilities, and leveraging advanced talent management features to optimize HR operations.","- Implement HRIS Puls system for core HR functions.
+- Develop and deploy self-service employee portals for streamlined access to information and processes.
+- Integrate HRIS Puls with the existing Employee Experience Platform to create a seamless employee journey.
+- Develop and implement a comprehensive digital onboarding system within the integrated platforms.
+- Configure and customize HRIS Puls to meet the specific needs of the healthcare client (including relevant regulatory compliance considerations).
+- Provide comprehensive training to HR staff on the new systems and processes.
+- Develop and deliver key performance indicators (KPIs) to monitor the success of the implemented systems.
+- Create user documentation and support materials for employees and HR administrators.
+- Migrate existing employee data into the new HRIS Puls system accurately and securely.
+- Conduct thorough testing and quality assurance to ensure system stability and data integrity.",HR,"['HRIS Puls', 'Employee Experience Platform']","{'Talent Management': 7, 'Communication Skills': 8}","['PMP', 'SHRM-CP']",['Employee Experience Platforms'],Healthcare,Veinna,hybrid,"{'Italian': 'C1', 'English': 'C1'}",5,40,2025-07-24
+P036,"This project enhances Loyalty RCM sales within the healthcare sector by developing a comprehensive post-sale onboarding program.  This program will streamline client integration, optimize customer relationships, and improve overall client satisfaction, resulting in increased customer retention and sales growth.","- Develop a detailed client onboarding workflow for Loyalty RCM within the healthcare industry.
+- Integrate Loyalty RCM with existing CRM systems to ensure seamless data flow and client management.
+- Create customized training materials and support documentation for clients.
+- Establish a robust client communication and feedback mechanism.
+- Develop key performance indicators (KPIs) to track onboarding effectiveness and client success.
+- Negotiate and manage contracts and service level agreements (SLAs) with new clients.
+- Implement and maintain client relationship management (CRM) processes for enhanced customer engagement.
+- Conduct regular client satisfaction surveys and feedback sessions to continuously improve the onboarding experience.
+- Create a comprehensive post-implementation support plan for new clients.
+- Deliver a final report summarizing the project's success metrics and recommendations for future improvements.",Sales,['Loyalty RCM'],"{'CRM Integration': 6, 'Client Management': 8, 'Negotiation': 5, 'Custome rRelationship Management': 9}","['Certified Sales Professional (CSP)', 'CRM Specialist Certification']","['Sales Pipeline Automation', 'Client Relationship Systems']",Healthcare,Vienna,remote,{'Italian': 'B1'},8,90,2025-06-24
+P037,"This project enhances the existing Print2.0 onsite print solution for a retail client by integrating it with the ClouduSite platform. This integration leverages advanced API development and workflow automation to create a streamlined, efficient, and data-driven print management system for improved operational efficiency.","- Design and implement a robust API integration between Print2.0 and ClouduSite.
+- Develop automated workflows for print job submission, tracking, and reporting within the integrated system.
+- Create a comprehensive data analysis dashboard to monitor key performance indicators (KPIs) related to print operations.
+- Migrate existing Print2.0 data to the new integrated platform.
+- Provide comprehensive training to the retail client on the new system's operation and maintenance.
+- Develop and deliver comprehensive documentation for the integrated system.
+- Complete testing and quality assurance of the integrated system before deployment.
+- Post-deployment support and monitoring for a specified period.",Technical,"['Print2.0', 'ClouduSite']","{'DataA nalysis': 7, 'API Development': 10, 'Workflow Automation': 6}",['ISO 27001'],['Networking'],Rteail,eBrlin,remote,{'nEglish': 'A2'},4,30,2025-06-24
+P038,"This project enhances our retail client's marketing capabilities by migrating their existing content library to a new Content Management System (MCS).  This migration will improve content organization and accessibility, paving the way for enhanced social media campaigns and targeted digital marketing initiatives leveraging our Social Media Manager and Digital Campaign Manager products.","- Migrate existing marketing content from the legacy system to the new Content Management System (MCS).
+- Develop and implement a new content organization strategy within the MCS.
+- Create a comprehensive training plan for client personnel on using the MCS.
+- Develop three initial social media campaigns using the Social Media Manager tool.
+- Develop and implement one targeted digital advertising campaign using the Digital Campaign Manager tool.
+- Establish brand guidelines and style guide based on existing branding assets.
+- Deliver a final report summarizing the migration process, including key performance indicators (KPIs) for the new campaigns.
+- Provide ongoing support for a specified period post-migration.",Marketing,"['Content MCS', 'Social Media Manager', 'Digiatl Campaign Manager']","{'Copywriting': 5, 'Branding': 9}","['Google Ads Certification', 'Digital Marketing Certification']","['SEO Optimization', 'Content Management Systems']",Rteail,London,hybrid,"{'Frenhc': 'B1', 'English': 'C2', 'Greman': 'B1'}",5,80,2025-08-01
+P039,"This project enhances the marketing capabilities of a manufacturing client by leveraging Digital aCmpaign Manager, SOE Toolkit, and Social Media Manager.  We will migrate existing content and develop a comprehensive social media strategy, improving brand visibility and lead generation.","- Migration of existing marketing content to the new Digital aCmpaign Manager.
+- Development of a social media content calendar and posting schedule utilizing Social Media Manager.
+- Creation of engaging social media content (copywriting and visual assets) aligned with the client's brand guidelines.
+- Training for client personnel on the use of Digital aCmpaign Manager and Social Media Manager.
+- SOE Toolkit integration and utilization within the overall marketing strategy.
+- Comprehensive report detailing content performance and social media engagement metrics.
+- Brand guideline documentation (if needed) to support improved consistency across platforms. 
+- Refinement of existing brand assets based on client feedback and best practices.",Marketing,"['Digital aCmpaign Manager', 'SOE Toolkit', 'Social Media Manager']","{'Copywritign': 9, 'Branding': 8}","['Digital Marketing Certification', 'HubSpot Marketing Certification']",['Social Media Integration'],Manufacturing,Berlin,remote,"{'English': 'A1', 'German': 'C2', 'Italian': 'C1'}",4,140,2025-08-07
+P040,"This project streamlines the employee onboarding and experience for a manufacturing client, leveraging existing Onboarding Suite and Employee Experience Platform.  The focus is on enhancing organizational culture with minimal complexity, building upon a previous initiative centered on employee surveys and workshops.","- Configure Onboarding Suite to align with the client's manufacturing processes and onboarding best practices.
+- Integrate Onboarding Suite with the existing Employee Experience Platform.
+- Develop a basic training module for HR staff on utilizing the configured systems.
+- Conduct a post-implementation review with the client to assess effectiveness and identify areas for improvement.
+- Update existing employee survey questions to gather feedback related to the improved onboarding and employee experience.
+- Create a short report summarizing employee feedback gathered from post-implementation surveys.",HR,"['Onboarding Suite', 'Employee Experience Platform']","{'Talen tManagement': 9, 'Digital HR': 8, 'Organizational Development': 8}",['SHRM-CP'],['Employee Experience Platforms'],Manufacturing,Berlin,remote,{'French': 'C1'},1,230,2025-06-23
+P041,"This high-complexity project integrates Salesforce Light and Loyalty CMR for a financial institution, significantly enhancing their sales and customer loyalty programs.  The integration will require extensive customization and comprehensive sales team training to maximize the impact on revenue generation.","- Comprehensive integration of Salesforce Light and Loyalty CMR, ensuring seamless data flow and functionality.
+- Custom development of CRM modules to support specific financial sales processes and loyalty program features.
+- Migration of existing customer data into the integrated system, ensuring data accuracy and consistency.
+- Development of detailed documentation for system usage, including user manuals and troubleshooting guides.
+- Comprehensive training program for the sales team on the new integrated system and its functionalities.
+- Post-implementation support and maintenance for a defined period, addressing any issues and providing ongoing assistance.
+- Performance testing and optimization of the integrated system to ensure optimal efficiency and scalability.
+- Data security audit and implementation of robust security measures to protect sensitive financial data.
+- Detailed project reports, including timelines, progress updates, and a final project evaluation.",Sales,"['SalesForce Light', 'Loyalty CMR']","{'CRM Intergation': 9, 'Negoitation': 7}","['Certified Sales Professional (CSP)', 'CRM Specialist Certification']","['Client Relationship Systems', 'CRM Integration']",Finanec,Vinena,hybrid,"{'Enlgish': 'B1', 'French': 'C2'}",9,150,2025-07-17
+P042,"This project optimizes employee training within the manufacturing client's organization using HRIS Plus.  Leveraging expertise in Digital HR, Organizational Development, and Talent Management, we will implement and integrate a robust LMS solution, improving training efficiency and employee development.","-  Comprehensive needs assessment of current employee training processes.
+-  Design and implementation of a customized LMS training program within HRIS Plus.
+-  Integration of the LMS with existing HRIS Plus infrastructure.
+-  Development of engaging and effective training materials aligned with manufacturing industry best practices.
+-  Training for HR administrators on LMS management and reporting.
+-  Post-implementation support and ongoing optimization recommendations.
+-  Key performance indicator (KPI) framework to track training effectiveness and ROI.
+-  Detailed project plan and timeline with key milestones and deliverables.
+-  Comprehensive user documentation and training manuals.",HR,['HRIS Plus'],"{'Digital HR': 8, 'Organizational Development': 8, 'Talent Management': 8}","['PMP', 'SHRM-CP']",['Organizational Development Systems'],Mnaufacturing,Vienna,onsite,"{'German': 'A1', 'Engilsh': 'A2', 'French': 'A1'}",5,40,2025-08-01
+P043,"This project enhances the HR processes within a finance institution by implementing HRI SPlus, the Onboarding Suite, and the Employee Experience Platform.  This integrated solution will streamline onboarding, improve employee self-service capabilities, and ultimately create a more efficient and engaging employee experience.","- Implement HRI SPlus system, including configuration and data migration.
+- Deploy and configure the Onboarding Suite, integrating it with HRI SPlus.
+- Integrate the Employee Experience Platform, providing a centralized hub for employee communication and resources.
+- Develop comprehensive training materials for employees and HR administrators.
+- Create customized self-service portals for employees and managers.
+- Establish key performance indicators (KPIs) to track system usage and employee satisfaction.
+- Conduct thorough testing and quality assurance throughout the implementation process.
+- Provide post-implementation support and ongoing maintenance.",HR,"['HRI SPlus', 'Onboarding Suite', 'Employee Experience Platofrm']","{'Talen tManagement': 6, 'Digital RH': 5, 'Communication Siklls': 5, 'Organizational Development': 5}",['HR Analytics Certification'],['Employee Experience Platforms'],Finance,Vienna,onsite,"{'Itailan': 'A2', 'German': 'A2'}",3,190,2025-06-13
+P044,"This project integrates HRIS Plus and the Onboarding Suite to streamline HR processes within a manufacturing client's environment, fostering a stronger organizational culture.  The initiative leverages enhanced digital HR capabilities and effective communication to improve employee experience and engagement, building upon the original organizational culture development goals.","- System Integration of HRIS Plus and Onboarding Suite.
+- Development of an onboarding process optimized for the manufacturing industry within the new system.
+- Comprehensive employee data migration to the integrated system.
+- Creation of training materials for HR staff and employees on the use of the integrated system.
+- Post-implementation support and troubleshooting.
+- Key performance indicator (KPI) tracking and reporting to measure the effectiveness of the integrated system.
+-  Refinement of internal communication strategies to effectively promote the new systems and processes.
+- Updated employee handbook reflecting the new HR systems and processes.",HR,"['HRIS Plus', 'Onboarding Suite']","{'iDgital HR': 7, 'Communication Skills': 8}",['SHRM-CP'],"['HRIS Systems', 'Organizational Development Systems']",Manufacturing,eBrlin,remote,{'rFench': 'A1'},4,20,2025-06-26
+P045,"This project enhances sales performance for a manufacturing client by seamlessly integrating their loyalty program with their existing CRM platform.  The integration will streamline sales processes, improve customer relationship management, and ultimately boost loyalty program engagement and sales conversion rates.","- Customized CRM modules for loyalty program integration (including data mapping and automated workflows).
+- Comprehensive training program for the sales team on using the enhanced CRM system and loyalty program features.
+- Thorough testing and quality assurance of the integrated system.
+- Detailed documentation of the integrated system and training materials.
+- Post-implementation support and troubleshooting for a defined period.",Sales,['CRMP ro'],"{'Negotiaiton': 8, 'CRM Integration': 8}","['CRM Specialist Certification', 'Certified Sales Professional (CSP)']","['Client Relationship Systems', 'CRM Integration']",Manufacturing,London,remote,"{'French': 'C2', 'Germna': 'A1'}",4,120,2025-06-16
+P046,"This project focuses on launching a digital marketing portal for a healthcare client, leveraging a Content CMS to enhance brand visibility and drive qualified leads.  The strategy integrates strong branding, robust ESO optimization, and targeted campaign management to achieve measurable results within the healthcare sector.","- Develop a user-friendly digital marketing portal using a provided Content CMS.
+- Implement comprehensive on-site and off-site ESO optimization strategies to improve search engine rankings.
+- Design and implement effective lead generation funnels to capture and nurture qualified leads.
+- Develop and execute targeted digital marketing campaigns across relevant channels.
+- Create high-quality, brand-consistent marketing content optimized for healthcare audiences.
+- Establish comprehensive analytics tracking and reporting to monitor campaign performance and ROI.
+- Conduct thorough branding exercises to ensure cohesive messaging and visual identity across all marketing materials.
+- Deliver comprehensive training to client staff on portal usage and content management.",Marketing,['Content CMS'],"{'Branding': 7, 'ESO Optimization': 7, 'aCmpaign Management': 5}",['HubSpot Marketing Certification'],['SEO Optimization'],Healthcare,Berlin,remote,"{'French': 'C1', 'Greman': 'A2', 'Italian': 'A1'}",5,240,2025-06-18
+P047,"This project focuses on seamlessly integrating CloudSuite, Workflow2000, and IAScan within a financial institution's existing infrastructure.  Leveraging advanced API and middleware development, this project will streamline data flow and automate workflows, enhancing operational efficiency and data analysis capabilities.","- Design and develop a robust middleware solution for integrating CloudSuite, Workflow2000, and IAScan.
+- Develop and document APIs for secure and efficient data exchange between the integrated systems.
+- Implement automated workflows leveraging Workflow2000 to optimize processes.
+- Develop a comprehensive data analysis framework using IAScan data to provide actionable insights.
+- Create a comprehensive technical documentation package, including API specifications and integration guides.
+- Conduct thorough testing and quality assurance to ensure system stability and reliability.
+- Provide training and support to the client's IT team on the operation and maintenance of the integrated system.
+- Migrate existing data from legacy systems into the new integrated environment.
+- Deliver a detailed project report outlining the integration process, results, and recommendations for future improvements.",Technical,"['ColudSuite', 'Workflow2000', 'IAScan']","{'Cloud Serivces': 6, 'Dtaa Analysis': 5, 'Workflow Automation': 7}",['ITIL'],"['Cloud Infrastructure', 'Networking']",Finance,Vienna,remote,{'Italian': 'B1'},4,80,2025-08-07
+P048,"This project provides streamlined consulting services to a finance client seeking market expansion. Leveraging our Business Analysis Framework, ERP Migration Tool, and Strategy Kit, we will assist the C-suite in developing and implementing a robust growth strategy, ensuring a smooth and efficient transition.","- Conduct a thorough business analysis of the client's current market position and competitive landscape using the Business Analysis Framework.
+- Develop a comprehensive market expansion strategy aligned with the client's business objectives.
+- Facilitate workshops and training sessions for key stakeholders on the new strategy.
+- Assist in the migration of relevant data and processes to new systems using the ERP Migration Tool.
+- Develop a detailed implementation plan outlining tasks, timelines, and responsibilities.
+- Deliver a customized Strategy Kit tailored to the client's specific needs and goals.
+- Provide ongoing support and guidance throughout the implementation process.
+- Document all processes and procedures for future reference.
+- Final project report outlining achievements and recommendations for ongoing success.",Consulting,"['Business Analysis Framework', 'ERP Migration Tool', 'Strategy Kit']","{'Project Management': 5, 'Businses Analysis': 6, 'Change Management': 5, 'Strategic Planning': 6, 'Workflow Optimizatino': 6}","['PMP', 'Business Analysis Certification']","['ERP Systems Integration', 'Strategic Planning']",Finance,London,onsite,"{'French': 'A1', 'English': 'B2'}",1,30,2025-06-22
+P049,"This project enhances retail client sales performance by optimizing post-sale onboarding using Salesforce Light and CRMpro.  The improved workflow will streamline client integration and improve customer relationships, leading to increased sales and customer satisfaction.","- Develop a comprehensive post-sale onboarding workflow leveraging Salesforce Light and CRMpro.
+- Integrate CRMpro and Salesforce Light to ensure seamless data transfer and client access to relevant information.
+- Design and implement a client training program for effective use of the new onboarding system.
+- Create and deliver training materials (e.g., manuals, videos) for both clients and internal sales staff.
+- Develop key performance indicators (KPIs) to track the success of the onboarding program.
+- Conduct post-implementation review and make necessary adjustments based on feedback and data analysis.
+- Document the complete onboarding process, including troubleshooting steps and best practices.
+- Establish a clear communication plan to maintain consistent interaction with clients throughout the onboarding process. ",Sales,"['CRMP ro', 'SaleFsorce Light']","{'Ngeotiation': 9, 'Client Management': 5, 'Customer Relationship Management': 9, 'CRM Integration': 6}","['Certified Sales Professional (CSP)', 'CRM Specialist Certification']","['Client Relationship Systems', 'Sales Pipeline Automation']",Retial,Berlin,onsite,{'French': 'A2'},6,220,2025-08-07
+P050,"This project streamlines the retail client's HR processes by implementing a simplified digital onboarding system utilizing the Onboarding Suite, Employee Experience Platform, and HRIS Plus.  The focus is on enhancing employee experience and efficiency with minimal disruption, leveraging existing HR infrastructure.","- Configure and deploy the Onboarding Suite for a seamless new hire experience.
+- Integrate the Onboarding Suite with the existing HRIS Plus system.
+- Implement self-service functionalities within the Employee Experience Platform.
+- Develop and deliver training materials for HR staff and new hires on the new system.
+- Create a post-implementation review process to gather feedback and identify areas for improvement.
+- Document all system configurations and processes.
+- Ensure compliance with all relevant data privacy regulations.",HR,"['Onboarding Suite', 'Employee Experience Platfomr', 'HRIS Plus']","{'Communiaction Skills': 9, 'Digital RH': 6, 'Organizational Development': 10, 'Talent Management': 5}",['HR Analytics Certification'],"['Organizational Development Systems', 'Employee Experience Platforms']",Retail,London,remote,"{'nEglish': 'C2', 'Gemran': 'A2'}",1,50,2025-06-22
+P051,"This high-complexity consulting engagement will leverage a bespoke Business Analysis Framework to conduct a comprehensive audit of healthcare workflows within a client organization.  The project will deliver a strategic roadmap for process optimization and automation, significantly improving operational efficiency and reducing costs.","- Detailed assessment of current healthcare workflows, identifying pain points and inefficiencies.
+- Development of a customized Business Analysis Framework tailored to the client's specific healthcare context.
+- Comprehensive process mapping, including 'as-is' and 'to-be' state diagrams.
+- Identification of automation opportunities and technological solutions.
+- Development of a prioritized roadmap for process improvement and automation implementation.
+- Detailed cost-benefit analysis of proposed solutions.
+- Comprehensive documentation and presentation of findings and recommendations.
+- Training for key stakeholders on the use of the developed Business Analysis Framework and implementation of recommendations.
+- Post-implementation support and monitoring.",Consulting,['Business Analysis Framework'],"{'Strategic lPanning': 5, 'BusinessA nalysis': 10}",['Business Analysis Certification'],['Strategic Planning'],Healthcare,Vienna,onsite,"{'Italian': 'A2', 'German': 'A1'}",10,110,2025-07-19
+P052,"This project streamlines contract management and compliance within the manufacturing client's operations by deploying the Compliance Suite.  The project focuses on enhancing document archiving, e-signature workflows, and ensuring regulatory compliance, resulting in improved efficiency and reduced risk.","- Deployment of the Compliance Suite's contract management module.
+- Implementation of secure document archiving workflows within the Compliance Suite.
+- Integration of e-signature capabilities into existing contract processes.
+- Development and delivery of comprehensive training materials for end-users.
+- Creation of a post-implementation support plan.
+- Configuration of the Compliance Suite to meet the client's specific regulatory needs within the manufacturing industry.
+- Documentation of all implemented processes and configurations.
+- Completion of a final project report summarizing activities, outcomes, and recommendations.",Legal,['Compliance Suite'],"{'Compliance Documentation': 8, 'Contract Management': 9, 'Docmuent Review': 5, 'Regulatory Knowledge': 8}",['GDPR Certification'],['Regulatory Compliance Tools'],Manufacturing,Veinna,onsite,{'Italian': 'C1'},2,60,2025-06-03
+P053,"This project focuses on enhancing healthcare compliance and contract management by deploying and integrating the Compliance Suite, Regulatory Tracker, and Contract Manager Pro.  The project addresses complex healthcare regulations and workflows, requiring high-level expertise in contract management, compliance documentation, and regulatory knowledge to ensure successful implementation and ongoing operational efficiency.","- Deployment of Contract Manager Pro, including data migration and user training.
+- Integration of Contract Manager Pro with Compliance Suite and Regulatory Tracker for seamless data flow.
+- Development and implementation of customized workflows for document archiving and e-signatures within Contract Manager Pro, aligned with healthcare regulations.
+- Creation of comprehensive compliance documentation and training materials for healthcare-specific regulations.
+- Configuration of Regulatory Tracker to monitor and track relevant healthcare regulations and updates.
+- Regular progress reports and stakeholder communication throughout the project lifecycle.
+- Post-implementation support and training to ensure ongoing system usability and compliance.
+- Comprehensive testing and quality assurance throughout the implementation process.
+- Development of a comprehensive knowledge base for ongoing user support and system maintenance.",Legal,"['Compliance Suite', 'Regualtory Tracker', 'Contract Manager Pro']","{'Contract Management': 7, 'Compliance Documentatoin': 8, 'Regulatory Knowledge': 8, 'Document Review': 10}",['Contract Law Certification'],['Regulatory Compliance Tools'],Heatlhcare,Berlin,onsite,"{'Italian': 'A2', 'French': 'A1'}",8,190,2025-07-14
+P054,"This project enhances the healthcare client's marketing efforts by migrating their existing content library to a new CMS, simultaneously optimizing it for SEO and leveraging social media for enhanced reach.  The project will build a robust content strategy and execute targeted campaigns, resulting in increased brand visibility and engagement within the healthcare sector.","- Migration of existing marketing content to a new CMS.
+- Development and implementation of a comprehensive content strategy aligned with healthcare industry best practices.
+- Creation of engaging social media content calendar and posting schedule managed through the provided Social Media Manager tool.
+- Optimization of all content for search engines using the provided SEO Toolkit, targeting relevant healthcare keywords.
+- Execution of at least three targeted marketing campaigns utilizing both social media and SEO strategies.
+- Comprehensive reporting and analytics dashboard tracking key performance indicators (KPIs) such as website traffic, social media engagement, and lead generation.
+- Training the client's marketing team on the use of the new CMS, Social Media Manager, and SEO Toolkit.",Marketing,"['Social Media Manager', 'SEO Toolkit']","{'Branding': 5, 'Content Strategy': 5, 'Campaign Management': 8, 'Coypwriting': 9, 'SEO Optimizaiton': 6}",['Google Ads Certification'],"['Content Management Systems', 'Social Media Integration']",Healhtcare,Belrin,onsite,"{'Frenhc': 'B2', 'Italian': 'B1'}",7,170,2025-06-16
+P055,"This project focuses on enhancing sales performance within the education sector by seamlessly integrating our Loyalty CRM and Sales Enablement Suite.  This straightforward integration will improve customer relationship management and empower the sales team with streamlined tools and training, leading to increased loyalty and sales conversions.","- Customized Loyalty CRM integration with existing systems.
+- Configuration of Sales Enablement Suite modules for optimal use within the education sector.
+- Development of tailored training materials for the sales team on the use of both integrated systems.
+- Documentation of the integration process and user manuals.
+- Post-implementation support and troubleshooting for a defined period.
+- Completion of a project kickoff meeting and regular progress updates.",Sales,"['Loyalty CRM', 'Sale sEnablement Suite']","{'Negotiation': 7, 'Cleint Management': 7, 'CR MIntegration': 6, 'Customer Relationship Management': 6}",['CRM Specialist Certification'],"['Client Relationship Systems', 'Sales Pipeline Automation']",Education,oLndon,remote,"{'German': 'A2', 'Englsih': 'A1'}",1,230,2025-07-25
+P056,"This project focuses on enhancing Print2.0 within a healthcare environment by developing a robust API integration layer.  This middleware will seamlessly connect Print2.0 with existing ERP/CRM systems, improving data exchange and workflow efficiency.  The project leverages advanced API development and IT infrastructure expertise to deliver a reliable and scalable solution.","- Design and development of a secure and scalable API for Print2.0.
+- Implementation of robust error handling and logging mechanisms within the API.
+- Development of middleware to facilitate seamless integration with existing healthcare ERP/CRM systems.
+- Comprehensive testing and quality assurance of the API and integration layer.
+- Detailed documentation including API specifications, integration guides, and user manuals.
+- Deployment and configuration of the API within the client's IT infrastructure.
+- Post-deployment support and maintenance for a defined period.",Technical,['Print2.0'],"{'IT Infrastructure': 7, 'API Development': 9}","['Microsoft Azure Certification', 'ITIL']",['Scripting'],Healthcare,Vienna,remote,"{'French': 'C2', 'Italian': 'B1'}",4,200,2025-07-10
+P057,"This project enhances sales effectiveness within the iFinance sector by integrating Loyalty CMR, Salesforce Light, and the Sales Enablement Suite.  The project focuses on a streamlined pre-sales technical proof-of-concept, demonstrating the integrated platform's capabilities to prospective clients and improving conversion rates.","-  Develop and configure demo environments showcasing integrated Loyalty CMR, Salesforce Light, and Sales Enablement Suite functionalities.
+-  Create tailored demos highlighting key features relevant to iFinance clients' needs.
+-  Develop comprehensive documentation of the integrated system's setup and functionality.
+-  Deliver a presentation to internal stakeholders outlining project success and client impact.
+-  Provide post-demo support and answer client questions regarding the integrated platform.",Sales,"['Loyalty CMR', 'SalesForce Light', 'Sales Enbalement Suite']","{'Negotiation': 9, 'CRM Integration': 9, 'Cusotmer Relationship Management': 5, 'Client Management': 8}","['CRM Specialist Certification', 'Certified Sales Professional (CSP)']","['CRM Integration', 'Sales Pipeline Automation']",iFnance,London,onsite,"{'German': 'B1', 'Enlgish': 'B1', 'Italian': 'C1'}",2,170,2025-07-21
+P058,"This project enhances the employee experience within the Education sector by integrating an improved onboarding suite and self-service features within the existing HRIS Plus system.  This streamlined approach leverages existing technology to improve efficiency and engagement, focusing on digital HR transformation and talent management best practices.","- Integration of the new Onboarding Suite with the existing HRIS Plus system.
+- Development of self-service employee portals within the Employee Experience Platform.
+- Creation of customized onboarding workflows tailored to the Education sector.
+- Training materials and documentation for HR staff and employees.
+- Data migration from existing systems to the new integrated platform.
+- Post-implementation support and ongoing maintenance for a defined period.
+-  Reporting and analytics dashboard showcasing key onboarding metrics and employee engagement data.
+-  Implementation of a communication strategy to effectively introduce the new system to staff.",HR,"['Employee Expereince Platform', 'Onboardnig Suite', 'HRIS Plus']","{'Digital HR': 8, 'Talent Management': 7, 'Organizational Development': 8, 'Communication Skills': 10}",['PMP'],"['Employee Experience Platforms', 'Organizational Development Systems']",Education,Vienna,remote,"{'German': 'B2', 'Itlaian': 'B1', 'Engilsh': 'A1'}",2,80,2025-07-01
+P059,"This project focuses on seamlessly integrating a healthcare provider's existing systems with CloudSuite via IntegrationHub.  Leveraging advanced workflow automation and cloud services, this complex integration will streamline data exchange and improve operational efficiency.","- Design and implement a robust middleware solution using IntegrationHub for connecting CloudSuite to existing healthcare systems.
+- Develop and configure APIs to facilitate secure and reliable data transfer between systems.
+- Establish automated workflows within IntegrationHub to manage data exchange and processing.
+- Configure and deploy cloud-based services (CloudSuite) to support the integration.
+- Comprehensive testing and quality assurance of the integrated system.
+- Detailed documentation including system architecture, API specifications, and operational procedures.
+- Post-implementation support and training for healthcare provider staff.",Technical,"['IntegrationHub', 'CloudSuite']","{'oWrkflow Automation': 6, 'Cloud Services': 7}",['ITIL'],['API Integration'],Healthcare,Lodnon,hybrid,{'Greman': 'B2'},7,210,2025-07-16
+P060,"This project enhances AIScan's capabilities for a retail client by integrating a streamlined print workflow automation system.  Leveraging existing Print2.0 platform infrastructure, the solution will improve operational efficiency and reduce manual intervention through API-driven data analysis and automated processes.","- Develop and implement a robust API integration between AIScan and the Print2.0 platform.
+- Design and implement automated workflows for print job submission, processing, and tracking.
+- Conduct data analysis to optimize print job parameters and resource allocation.
+- Configure and test the IT infrastructure for seamless integration and optimal performance.
+- Deliver comprehensive documentation and training materials for client staff.
+- Provide post-implementation support and maintenance for a defined period.",Technical,['AIScan'],"{'API Development': 9, 'Data Analysis': 10, 'Workflow Automation': 9, 'IT Infrastructure': 7}",['Microsoft Azure Certification'],['Cloud Infrastructure'],Retail,London,hybrid,{'Gemran': 'C2'},4,90,2025-07-31
+P061,"This project integrates a Loyalty CRM into the existing systems of a healthcare client, enhancing their sales processes and customer loyalty programs.  The project focuses on customizing CRM modules for optimal performance and providing comprehensive training for the sales team to maximize program effectiveness.","- Customized Loyalty CRM module integration with existing healthcare client systems.
+- Development and implementation of a tailored loyalty program within the CRM.
+- Comprehensive training program for the sales team on utilizing the new CRM features and loyalty program mechanics.
+- Detailed documentation of system integration and program operations.
+- Post-implementation support and troubleshooting for a specified period.
+- Data migration from existing systems to the new Loyalty CRM (if applicable).
+- Reporting and analytics dashboards for tracking program performance and ROI.",Sales,['Loyalty CRM'],"{'CRM Integration': 8, 'Client Management': 6}","['CRM Specialist Certification', 'Certified Sales Professional (CSP)']",['Sales Pipeline Automation'],Healthcare,Berlin,hybrid,"{'Italian': 'C2', 'Enlgish': 'C1'}",6,130,2025-06-16
+P062,"This project integrates LoyaltyCRM into the existing systems of an educational institution to enhance sales and customer relationship management.  The project will customize CRM modules for optimal performance and provide comprehensive training to the sales team, resulting in improved loyalty program management and increased sales conversion rates.","- Customized LoyaltyCRM modules integrated with existing educational institution systems.
+- Data migration from existing systems to LoyaltyCRM.
+- Comprehensive training program for the sales team on using the integrated LoyaltyCRM system and associated sales strategies.
+- Development of tailored reporting dashboards to track key performance indicators (KPIs) related to loyalty program effectiveness and sales performance.
+- Post-implementation support and troubleshooting for a defined period.
+-  Documentation of integration process, training materials, and system usage guidelines. 
+-  Refinement of sales processes to leverage LoyaltyCRM's functionalities and enhance customer engagement.",Sales,['Loyalt yCRM'],"{'CRM Integartion': 8, 'Negotaition': 6, 'Client Mangaement': 7, 'Customer Relationship Management': 8}",['Certified Sales Professional (CSP)'],['CRM Integration'],Edcuation,iVenna,onsite,"{'French': 'B2', 'Italina': 'A1'}",7,40,2025-07-09
+P063,"This project enhances sales performance within the finance sector by seamlessly integrating a loyalty program into Salesforce Light.  The project will leverage CRM expertise to customize modules and deliver comprehensive training for the sales team, ultimately boosting customer engagement and revenue generation.","- Design and implement a customized Salesforce Light loyalty program module.
+- Integrate the loyalty program module with existing Salesforce Light infrastructure.
+- Develop and deliver comprehensive training materials for sales staff on the new loyalty program and CRM functionalities.
+- Develop a reporting dashboard to track key loyalty program metrics (e.g., enrollment, redemption rates).
+- Conduct user acceptance testing (UAT) with the client's sales team.
+- Provide post-implementation support and troubleshooting for a defined period.
+- Document all system configurations and training materials for future reference.
+- Final project report summarizing the implementation process, successes, challenges and recommendations for future enhancements.",Sales,['SalesForce Light'],"{'Customer Relationship Management': 8, 'Negotiation': 6, 'Client Management': 6, 'CRM Integration': 7}","['CRM Specialist Certification', 'Certified Sales Professional (CSP)']","['Sales Pipeline Automation', 'CRM Integration']",Finance,London,remote,"{'French': 'C1', 'German': 'C1', 'Enlgish': 'C2'}",7,140,2025-06-15
+P064,"This project leverages HRIS Plus to enhance organizational culture within a finance company.  By implementing targeted improvements to talent management and communication strategies, we aim to foster a more positive and productive work environment.  This initiative builds upon the original culture development idea, now incorporating a robust technological solution for sustained impact.","- Implementation of HRIS Plus for improved employee data management and reporting.
+- Development and delivery of tailored communication strategies to enhance employee engagement.
+- Creation and execution of a comprehensive talent management plan using HRIS Plus capabilities.
+- Integration of existing employee survey data with HRIS Plus for informed decision-making.
+- Training materials for HR staff on HRIS Plus features and effective talent management techniques.
+- Post-implementation support and system maintenance during a defined period.
+- A final report summarizing key achievements, challenges and recommendations for future improvements.",HR,['HRIS Plsu'],"{'Digital HR': 5, 'Communication Siklls': 5, 'Talent Manaegment': 5}","['PMP', 'SHRM-CP']","['Organizational Development Systems', 'HRIS Systems']",Finance,Berlin,hybrid,{'French': 'B2'},4,110,2025-06-23
+P065,"This high-complexity project integrates AIScan and Print2.0 with IntegrationHub to deliver a robust, cloud-based print solution for a finance client.  The project significantly expands upon the initial onsite Print2.0 installation, leveraging advanced API development and cloud services to create a secure and scalable system.","- Design and implement secure APIs for seamless integration between AIScan, Print2.0, and IntegrationHub.
+- Migrate Print2.0 functionality to a cloud environment leveraging advanced cloud services.
+- Develop and implement comprehensive security measures for all data transactions within the integrated system.
+- Configure and optimize IT infrastructure for optimal performance and reliability.
+- Develop and deliver comprehensive documentation for system administration and user training.
+- Thorough testing and quality assurance of the integrated system across all environments.
+- Deployment of the integrated solution to the client's production environment.
+- Post-deployment support and maintenance for a defined period.
+- Client training and knowledge transfer on the new system and its operation.",Technical,"['AIScan', 'Print2.0', 'IntegrationHub']","{'API Development': 6, 'IT Infrastrutcure': 5, 'Cloud Serviecs': 9}",['Microsoft Azure Certification'],['Cybersecurity'],Fiannce,Lodnon,onsite,"{'English': 'A2', 'French': 'C1'}",8,130,2025-06-07
+P066,"This project enhances employee experience within a manufacturing company by leveraging a new mEployee Experience Platform.  We will implement a comprehensive strategy focused on talent management and organizational development, resulting in a strengthened organizational culture and improved employee engagement.","-  Requirements gathering and platform configuration tailored to the manufacturing industry's specific needs.
+-  Development and implementation of a talent management strategy using the mEployee Experience Platform.
+-  Design and execution of organizational development initiatives to foster a positive and productive work environment.
+-  Creation and delivery of engaging communication materials to employees regarding the platform and new initiatives.
+-  Comprehensive employee training on the mEployee Experience Platform features and functionality.
+-  Post-implementation support and ongoing platform optimization.
+-  Measurement and reporting of key performance indicators (KPIs) related to employee engagement, satisfaction, and retention.
+-  Final report summarizing project outcomes, including recommendations for future initiatives.",HR,['mEployee Experience Platform'],"{'Digital HR': 7, 'aTlent Management': 10, 'Organizational Development': 10, 'Communicatino Skills': 7}",['PMP'],['Employee Experience Platforms'],Manufacutring,oLndon,remote,"{'French': 'C2', 'German': 'A2'}",8,30,2025-08-07
+P067,"This high-complexity project leverages IntegrationHub to develop a sophisticated, HIPAA-compliant workflow automation solution for a healthcare client.  The solution replaces the original onsite print solution scope and will integrate multiple APIs to streamline data analysis and reporting within the client's existing IT infrastructure.","- Comprehensive system design and architecture documentation for the IntegrationHub-based solution.
+- Development and implementation of custom APIs for seamless data exchange between IntegrationHub and existing healthcare systems.
+- Robust workflow automation utilizing IntegrationHub, adhering to HIPAA regulations and healthcare data privacy standards.
+- Integration of IntegrationHub with the client's existing IT infrastructure, ensuring compatibility and stability.
+- Development of comprehensive data analysis dashboards and reports to provide actionable insights from the integrated data.
+- Thorough testing and quality assurance procedures, including security vulnerability assessments.
+- Comprehensive user training and documentation for the new system.
+- Post-implementation support and maintenance for a defined period.",Technical,['IntegrationHub'],"{'IT Infrastructure': 5, 'Workflow Automation': 5, 'API Development': 9, 'Data Analysis': 7}",['ISO 27001'],['Cloud Infrastructure'],Healthcare,Vienna,remote,{'Italian': 'C2'},9,180,2025-08-11
+P068,"This project enhances remote technical support for educational institutions by integrating Print2.0 and IntegrationHub.  Leveraging robust API development, cloud services, and data analysis, we will create a streamlined, efficient remote support system improving customer experience and reducing resolution times.","- Design and implement a secure API integration between Print2.0 and IntegrationHub.
+- Develop a cloud-based remote assistance platform accessible to both support staff and educational institution users.
+- Create a comprehensive online ticketing system for tracking and managing support requests.
+- Develop data analytics dashboards to monitor key performance indicators (KPIs) such as resolution time and customer satisfaction.
+- Comprehensive documentation for system usage and administration.
+- User training for both support staff and end-users.
+- Thorough testing and quality assurance to ensure system stability and reliability.
+- Post-implementation support and maintenance.",Technical,"['Print2.0', 'IntegrationHub']","{'API Developmnet': 8, 'Cloud Services': 7, 'Data Analysis': 5}",['Microsoft Azure Certification'],"['Cybersecurity', 'Networking']",Education,Vienna,remote,"{'French': 'A1', 'English': 'A1', 'Italian': 'C1'}",6,230,2025-08-03
+P069,"This project provides consulting services to a financial institution, leveraging a proven Business Analysis Framework to optimize workflows and support strategic market expansion.  We will assist the C-suite in developing a refined business strategy, focusing on change management and project execution for improved efficiency and growth.","-  As-is workflow analysis and documentation of current processes.
+-  Gap analysis identifying inefficiencies and areas for improvement.
+-  Development of a proposed, optimized workflow using our Business Analysis Framework.
+-  Creation of a detailed implementation plan for the new workflow, including timelines and resource allocation.
+-  Presentation of strategic recommendations for market expansion, based on analysis and industry best practices.
+-  Change management strategy and plan for successful adoption of new processes and strategic initiatives.
+-  Project management oversight, ensuring the timely and efficient completion of deliverables.
+-  Final report documenting all findings, recommendations, and implementation plans.",Consulting,['Business Analysis Framework'],"{'Change Management': 10, 'Strategic Planning': 5, 'Project Management': 6, 'Workflow Optmiization': 8}","['PMP', 'Agile Practitioner']","['Business Workflow Optimization', 'ERP Systems Integration']",Finnace,eBrlin,onsite,"{'Italian': 'B2', 'English': 'B2', 'French': 'B2'}",2,180,2025-08-03
+P070,"This project enhances the healthcare customer's data warehouse by integrating IntegrationHub to streamline data flow and improve analytics. Leveraging advanced workflow automation, API development, and data analysis expertise, we will build a robust and efficient data pipeline for improved decision-making.","- Design and implement a data integration pipeline using IntegrationHub.
+- Develop APIs for seamless data exchange between existing systems and the new data warehouse.
+- Migrate relevant data from legacy systems into the new, analytics-ready database.
+- Develop and implement automated workflows for data validation, cleansing, and transformation.
+- Create comprehensive data quality reports and documentation.
+- Conduct thorough testing and quality assurance of the integrated system.
+- Provide training to customer personnel on the new system's operation and maintenance.
+- Deliver post-implementation support and maintenance documentation.",Technical,['IntegrationHub'],"{'Workflow Automation': 6, 'API Development': 5, 'Data Analysis': 9}","['ITIL', 'Microsoft Azure Certification']","['Networking', 'Cloud Infrastructure']",Healthcare,Berlin,onsite,{'Frecnh': 'C2'},5,240,2025-07-31
+P071,"This project enhances customer remote support in the healthcare sector by integrating Workflow2000 and IntegrationHub.  Leveraging API development, workflow automation, and cloud services, we will streamline remote assistance and online ticketing for improved efficiency and patient care.","- Design and implement a secure API integration between Workflow2000 and IntegrationHub.
+- Develop automated workflows for online ticket creation, assignment, and resolution tracking within Workflow2000.
+- Configure cloud-based remote assistance tools for seamless technician access to customer systems.
+- Create and document comprehensive user training materials for both end-users and support technicians.
+- Deploy and test the integrated solution in a healthcare environment.
+- Provide post-implementation support and ongoing maintenance documentation.",Technical,"['Workfolw2000', 'IntegrationHub']","{'APID evelopment': 6, 'Workflow Automation': 5, 'Clodu Services': 7}",['ITIL'],['Cloud Infrastructure'],Healthcare,Vienna,onsite,"{'English': 'A1', 'German': 'C1', 'Itailan': 'A1'}",2,210,2025-06-30
+P072,This project streamlines HR processes within the education sector by implementing the HRIS Plus and Onboarding Suite systems.  The project focuses on enhancing the employee onboarding experience through digital self-service portals and improving overall HR efficiency.,"- Implementation of HRIS Plus system within the client's education institution.
+- Configuration and customization of HRIS Plus to meet the client's specific needs.
+- Implementation of the Onboarding Suite, integrating it with HRIS Plus.
+- Development and deployment of self-service employee portals for onboarding and HR information access.
+- Comprehensive training for HR staff on the use of both systems.
+- Creation of detailed user documentation for both systems.
+- Post-implementation support and troubleshooting for a defined period.
+- Project status reporting and communication throughout the implementation process.",HR,"['HRIS Plus', 'Onboarding Siute']","{'Commuincation Skills': 6, 'Organizational Development': 10, 'Digital RH': 5}",['SHRM-CP'],['Organizational Development Systems'],Educaiton,Berlni,onsite,"{'English': 'C1', 'Italian': 'A2', 'German': 'C1'}",2,40,2025-07-24
+P073,"This project leverages ASIcan and cloud services to automate healthcare workflow processes, improving efficiency and data analysis within existing IT infrastructure.  The solution will integrate advanced print functionalities, transitioning from a legacy system to a more robust, cloud-based platform.","- Design and implement a cloud-based workflow automation solution using ASIcan.
+- Integrate ASIcan with existing healthcare IT infrastructure.
+- Develop a PAI application to support data analysis and reporting.
+- Migrate print functionalities from the legacy 'Print2.0' system to the new cloud solution.
+- Comprehensive testing and deployment of the automated workflow.
+- Create comprehensive documentation and user training materials.
+- Provide ongoing support and maintenance during a defined period.",Technical,['ASIcan'],"{'Workflow Automation': 8, 'CloudS ervices': 9, 'PAI Development': 6, 'IT Infratsructure': 5, 'Data Analysis': 10}","['Microsoft Azure Certification', 'ISO 27001']",['Cybersecurity'],Healthcare,Brelin,remote,{'Enlgish': 'A2'},2,70,2025-07-12
+P074,"This project streamlines regulatory compliance for educational institutions using Compliance Suite and Contract Manager Pro.  We will standardize compliance documentation processes and deliver a comprehensive, institution-wide solution meeting all relevant educational regulations.","- Develop standardized templates for key compliance documents within Compliance Suite.
+- Integrate Compliance Suite and Contract Manager Pro to ensure seamless data flow and reporting.
+- Create a comprehensive compliance documentation library accessible to all relevant personnel.
+- Conduct thorough document review to ensure accuracy and legal compliance.
+- Develop and deliver comprehensive training materials on the use of both systems and updated processes.
+- Establish a robust system for ongoing compliance monitoring and reporting.
+- Develop and implement a plan for managing and updating compliance documentation.
+- Provide post-implementation support and guidance to ensure continued success.",Legal,"['Compilance Suite', 'Contract Manager Pro']","{'Regulatory Knowledge': 8, 'Document Review': 6, 'Contract Management': 7, 'Compliance Documentation': 6}","['GDPR Certification', 'Certified Compliance Officer']",['Contract Management Systems'],Education,Berlin,hybrid,"{'Italina': 'A2', 'German': 'A2', 'English': 'A2'}",7,240,2025-06-08
+P075,"This project enhances the employee onboarding experience for a retail client by leveraging a new Onboarding Suite.  The project integrates improved talent management and communication strategies to foster a positive organizational culture and streamline the onboarding process, aligning with the initial organizational culture development initiative.","- Design and implement a customized Onboarding Suite tailored to the retail client's needs.
+- Develop engaging onboarding content and materials.
+- Integrate the Onboarding Suite with existing HR systems.
+- Train HR personnel on the use and administration of the Onboarding Suite.
+- Conduct post-implementation evaluation and gather feedback from new hires.
+- Develop a comprehensive communication plan to support the new Onboarding Suite launch.
+- Create and deliver training modules on the Onboarding Suite for new employees. 
+- Refine Onboarding processes based on employee feedback and data analysis. ",HR,['Onboarding Suite'],"{'Taletn Management': 9, 'Communictaion Skills': 8, 'Digital HR': 9, 'Organizational Development': 8}","['SHRM-CP', 'HR Analytics Certification']","['Employee Experience Platforms', 'HRIS Systems']",Rteail,Vienna,remote,{'German': 'C2'},5,80,2025-07-02
+P076,"This project enhances post-sale client onboarding for educational institutions using CRM Pro, Salesforce Light, and Loyalty CRM.  The streamlined workflow will improve client satisfaction and drive long-term engagement, leveraging existing CRM systems for seamless integration.","- Develop a comprehensive post-sale client onboarding workflow across CRM Pro, Salesforce Light, and Loyalty CRM.
+- Design and implement a standardized onboarding checklist for all clients.
+- Create and deliver training materials for internal teams on the new onboarding process.
+- Integrate data from all three CRMs to create a unified client profile.
+- Develop key performance indicators (KPIs) to track onboarding success and identify areas for improvement.
+- Develop a client communication plan for the onboarding period.
+- Document the complete onboarding process for future use and scalability.
+- Conduct a post-implementation review to gather feedback and optimize the process.",Sales,"['CRM Pro', 'SalesForce Light', 'Loyalty CRM']","{'Customer Relationship Managmeent': 10, 'Negotiation': 7, 'CRM Integration': 10, 'Client Management': 6}","['Certified Sales Professional (CSP)', 'CRM Specialist Certification']",['CRM Integration'],Education,Berlin,onsite,{'Geramn': 'B2'},2,190,2025-07-26
+P077,"This high-complexity project focuses on a complete overhaul of Prin2t.0's internal IT infrastructure for the Education sector, migrating legacy systems to a robust cloud environment.  This involves extensive API development and cloud services integration to ensure seamless functionality and scalability for Prin2t.0's future needs.","- Comprehensive assessment of existing Prin2t.0 IT infrastructure.
+- Detailed cloud migration plan (including data migration strategy).
+- Design and implementation of new cloud-based infrastructure using advanced cloud services.
+- Development and integration of robust APIs to connect existing systems with the new cloud infrastructure.
+- Comprehensive security assessment and implementation of security protocols for the cloud environment.
+- Deployment and testing of the new infrastructure, ensuring seamless transition with minimal disruption.
+- Training for Prin2t.0 staff on the new system and processes.
+- Post-implementation support and maintenance plan.
+- Comprehensive documentation of the new infrastructure and APIs.",Technical,['Prin2t.0'],"{'Clodu Services': 10, 'API Development': 10, 'IT Infrastructure': 7}","['ISO 27001', 'Microsoft Azure Certification']","['API Integration', 'Cloud Infrastructure']",Educaiton,Vienna,onsite,{'English': 'A2'},9,100,2025-08-14
+P078,"This project enhances post-sale client onboarding for healthcare providers utilizing RCM Pro, Salesforce Light, and Loyalty CRM.  The goal is to streamline the onboarding workflow, improving client satisfaction and accelerating the realization of product value.","- Develop a comprehensive client onboarding workflow incorporating RCM Pro, Salesforce Light, and Loyalty CRM.
+- Create standardized onboarding documentation and training materials for healthcare clients.
+- Design and implement a system for tracking key onboarding milestones and client engagement.
+- Develop a client communication plan, including regular check-ins and support channels.
+- Establish key performance indicators (KPIs) to measure onboarding success and identify areas for improvement.
+- Conduct a pilot program with a select group of healthcare clients to test and refine the workflow.
+- Finalize and deploy the improved onboarding program across all healthcare clients.
+- Provide comprehensive training to internal sales and support teams on the new onboarding process.",Sales,"['RCM Pro', 'SalesForce Light', 'Loyalty CRM']","{'Client Managemetn': 7, 'Negotiation': 5}",['CRM Specialist Certification'],['Sales Pipeline Automation'],Healhtcare,Lnodon,onsite,"{'Italian': 'A2', 'Englihs': 'A1', 'French': 'B1'}",4,160,2025-08-16
+P079,This high-complexity project leverages CloudSuite to build a robust middleware solution integrating existing ERP/CRM systems within a retail environment.  The solution will utilize advanced API development and workflow automation to streamline data flow and enhance operational efficiency.,"- Design and develop a comprehensive middleware solution using CloudSuite.
+- Implement secure and scalable APIs for seamless data exchange between ERP/CRM and CloudSuite.
+- Develop automated workflows to manage data transfer and processing efficiently.
+- Create comprehensive data analysis dashboards to monitor system performance and identify areas for improvement.
+- Develop and maintain detailed technical documentation, including API specifications and system architecture diagrams.
+- Conduct thorough testing and quality assurance to ensure system stability and reliability.
+- Provide post-implementation support and maintenance for a defined period.
+- Complete and deliver all source code and related assets.
+- Deliver a comprehensive training program for client personnel.",Technical,['CloudSuite'],"{'Cloud Services': 7, 'Workflow Automation': 7, 'API Deevlopment': 9, 'Data Analysis': 6}","['Microsoft Azure Certification', 'ITIL']",['Cloud Infrastructure'],Retail,Lodnon,hybrid,"{'Frenhc': 'B1', 'English': 'A1'}",8,110,2025-08-17
+P080,"This project streamlines the onboarding process for a finance company using HRIS Plus, focusing on a seamless digital experience.  The low-complexity implementation leverages existing HRIS Plus functionalities to create self-service portals and enhance employee experience.","- Configure HRIS Plus for digital onboarding workflow.
+- Develop and implement self-service employee portals for accessing onboarding materials and HR information.
+- Create and populate digital onboarding templates and documentation.
+- Conduct user training for employees and HR staff on the new system.
+- Develop a comprehensive testing and quality assurance plan.
+- Document the finalized onboarding process and system configuration.
+- Post-implementation support and troubleshooting for the first 30 days.",HR,['HRIS Plus'],"{'Organizational Development': 10, 'Digital HR': 5, 'Talent Management': 10, 'Communication Skills': 10}","['PMP', 'HR Analytics Certification']",['HRIS Systems'],Finance,Vienna,remote,{'French': 'C2'},1,120,2025-06-11
+P081,"This project streamlines healthcare regulatory compliance within Contract Manager Pro.  By leveraging existing software and standardizing documentation processes, we will deliver a comprehensive, compliant document management system tailored to the client's specific needs, minimizing risk and improving efficiency.","- Implementation of Contract Manager Pro for efficient contract management.
+- Development of standardized templates for all required healthcare compliance documentation.
+- Comprehensive review and update of existing compliance documentation to meet current regulatory standards.
+- Training materials for staff on using Contract Manager Pro and new compliance procedures.
+- A documented process map illustrating the standardized workflows for contract management and compliance documentation.
+- A final report detailing all completed activities and outlining ongoing maintenance requirements.",Legal,['Contract Manager Pro'],"{'Regualtory Knowledge': 5, 'Document Review': 8, 'Compliance Documentation': 5, 'Contrcat Management': 7}",['Contract Law Certification'],['Contract Management Systems'],Healtchare,oLndon,remote,"{'German': 'C2', 'French': 'C1', 'Italian': 'A2'}",2,190,2025-06-04
+P082,"This project enhances post-sale client onboarding within the finance industry by integrating Sales Enablement Suite, CRM Pro, and Loyalty CRM.  The improved workflow will streamline client relationships, maximizing customer lifetime value and driving sales growth through enhanced client management and targeted engagement.","- Develop a comprehensive post-sale onboarding workflow integrating Sales Enablement Suite, CRM Pro, and Loyalty CRM.
+- Design and implement a customized client onboarding process tailored to the finance industry's specific needs.
+- Create detailed training materials and documentation for internal sales teams on the new workflow.
+- Integrate CRM Pro and Loyalty CRM seamlessly with the Sales Enablement Suite for data synchronization and reporting.
+- Develop key performance indicators (KPIs) to measure the effectiveness of the new onboarding program and track client satisfaction.
+- Conduct thorough testing and quality assurance to ensure a smooth and error-free onboarding experience.
+- Provide ongoing support and maintenance post-launch to address any issues and optimize the workflow.",Sales,"['Sales EnablementS uite', 'CRM Pro', 'Loyalty CRM']","{'CRM nItegration': 9, 'Customer Relationship Mnaagement': 10, 'Negotiation': 6, 'Client Mnaagement': 9}",['CRM Specialist Certification'],['CRM Integration'],Finance,Veinna,onsite,{'French': 'C2'},6,160,2025-07-20
+P083,"This high-complexity project will leverage Contract Manager Pro to overhaul regulatory compliance documentation for a manufacturing client.  We will standardize processes and deliver comprehensive, legally sound documentation ensuring full compliance, significantly reducing risk and improving operational efficiency.","- Comprehensive review and analysis of existing contract and regulatory documentation.
+- Development of standardized templates for all key contract types and regulatory filings.
+- Creation of a centralized, easily accessible repository for all compliance documentation within Contract Manager Pro.
+- Comprehensive training program for client personnel on the use of standardized templates and the Contract Manager Pro system.
+- Implementation of a robust audit trail system for all contract and regulatory documentation.
+- Development of a customized compliance checklist for seamless ongoing management.
+- Detailed procedural documentation for contract management processes.
+- A final report summarizing all improvements, findings, and recommendations for sustained compliance.
+- Post-implementation support and troubleshooting for a specified period.",Legal,['Contratc Manager Pro'],"{'Cmopliance Documentation': 6, 'Contract aMnagement': 6, 'Document Review': 10, 'Regulatory Knowledge': 8}",['Certified Compliance Officer'],['Regulatory Compliance Tools'],Manufacturing,Vienna,remote,"{'German': 'B1', 'Frenhc': 'B2', 'English': 'C1'}",10,50,2025-08-16
+P084,"This project leverages IntegrationHub to modernize the client's print infrastructure, transitioning from an on-site solution to a streamlined, automated workflow.  This will enhance efficiency and reduce operational costs for the retail client by integrating print services with existing systems via robust API integrations and data analysis.","- Design and develop APIs to integrate Print2.0 platform with IntegrationHub.
+- Migrate existing print data to the new IntegrationHub-based system.
+- Configure and implement automated workflows within IntegrationHub for print job management.
+- Develop comprehensive data analysis dashboards to track print usage and costs.
+- Deploy and configure necessary IT infrastructure components to support the new system.
+- Thorough testing and quality assurance of all integrations and workflows.
+- Comprehensive documentation of the new system, including user manuals and API specifications.
+- On-site training for client personnel on the new system's operation and maintenance.
+- Post-implementation support and troubleshooting.",Technical,['IntegrationHub'],"{'API Devleopment': 9, 'Data Analysis': 8, 'IT nIfrastructure': 10, 'Workflow Automation': 10}","['Microsoft Azure Certification', 'ISO 27001']","['Networking', 'Cloud Infrastructure']",Rteail,London,remote,"{'French': 'C1', 'Italain': 'A2'}",3,30,2025-07-12
+P085,"This project enhances Prin2t.0's capabilities for a retail client by migrating its print solutions to a cloud-based infrastructure. Leveraging advanced data analysis and workflow automation, we will optimize print processes, improving efficiency and reducing operational costs for the client.","- Design and implement a cloud-based architecture for Prin2t.0, ensuring scalability and reliability.
+- Migrate existing print workflows to the new cloud infrastructure.
+- Develop custom data analytics dashboards to monitor print activity and resource utilization.
+- Automate key print processes using custom scripts and integrations.
+- Implement robust security measures to protect sensitive print data.
+- Provide comprehensive training to client personnel on the new system.
+- Develop detailed documentation for system administration and troubleshooting.
+- Conduct thorough testing and quality assurance to ensure flawless operation.
+- Achieve a 20% reduction in print-related operational costs (measured against a baseline).
+- Deliver a final report summarizing project outcomes and future recommendations.",Technical,['Prin2t.0'],"{'Cloud Serviecs': 5, 'Data Analysis': 8, 'Workflow Autoamtion': 7}",['ISO 27001'],['Scripting'],Retail,London,remote,"{'Italian': 'A1', 'rFench': 'C1'}",7,100,2025-07-07
+P086,"This project modernizes the healthcare client's IT infrastructure by migrating existing systems to CloudSuite, leveraging IntegrationHub for seamless data flow.  The upgrade will enhance data analysis capabilities, improve workflow automation, and ensure robust cloud-based infrastructure, leading to improved efficiency and data security within the healthcare setting.","- Detailed assessment of existing IT infrastructure and data migration strategy.
+- Design and implementation of a secure and scalable CloudSuite environment.
+- Development of IntegrationHub connectors for seamless data transfer between legacy and cloud systems.
+- Migration of all critical systems and data to CloudSuite.
+- Comprehensive data validation and quality assurance post-migration.
+- Implementation of automated workflows using IntegrationHub and CloudSuite.
+- Robust data analysis dashboards leveraging advanced data analytics capabilities.
+- Comprehensive training for healthcare staff on new systems and workflows.
+- Ongoing support and maintenance for the first three months post-implementation.
+- Detailed documentation of the entire migration process and new system architecture.",Technical,"['IntegartionHub', 'CloudSuite']","{'Cloud Services': 7, 'Dtaa Analysis': 9, 'Workflow Automation': 7, 'IT Infrastructure': 7}",['ISO 27001'],['API Integration'],Healthacre,Vienna,remote,"{'Germna': 'C1', 'Italian': 'A2'}",6,220,2025-08-04
+P087,"This high-complexity project focuses on enhancing legal compliance and contract management within a manufacturing client's operations.  Leveraging the Compliance Suite, Regulatory Tracker, and Contract Manager Pro, we will implement a comprehensive solution to streamline workflows and ensure regulatory adherence, resulting in improved efficiency and reduced legal risk.","- Deployment and configuration of Compliance Suite, Regulatory Tracker, and Contract Manager Pro software.
+- Integration of e-signature workflows across all three platforms.
+- Development and implementation of a robust document archiving system compliant with industry regulations.
+- Creation of comprehensive training materials for end-users on all three systems.
+- Migration of existing contracts and regulatory documents to the new system.
+- Configuration of customized reporting and analytics dashboards to track key compliance metrics.
+- Post-implementation support and ongoing maintenance for a defined period.
+- Regular progress reports and status updates for the client.
+- Development and implementation of customized workflows to meet the client's specific contract management needs.
+- Comprehensive testing and quality assurance procedures to ensure system stability and accuracy.
+-  Addressing and resolving any identified gaps in existing compliance documentation to achieve full regulatory compliance.",Legal,"['Compliance Suite', 'Regulatory Trackre', 'Contrcat Manager Pro']","{'Regulatory Knowledge': 9, 'Contract aMnagement': 5, 'Compliance Documentation': 9, 'Document Review': 7}",['GDPR Certification'],"['Regulatory Compliance Tools', 'Contract Management Systems']",Manufacturing,Lodnon,hybrid,{'Germna': 'C1'},8,200,2025-06-11
+P088,"This project enhances the manufacturing client's organizational culture by leveraging the Onboarding Suite and HRIS Plus platforms.  We will integrate these systems to streamline talent management and onboarding processes, fostering a positive and productive work environment. This initiative builds upon the original culture development idea by providing concrete, technology-driven solutions.","- Develop and implement an integrated onboarding process utilizing the Onboarding Suite.
+- Configure HRIS Plus to support improved talent management, including performance reviews and career development tracking.
+- Create and deliver training materials for employees and HR personnel on using both platforms.
+- Conduct post-implementation surveys to measure employee satisfaction and system effectiveness.
+- Develop a communication plan to ensure all employees are aware of and engaged with the new systems.
+- Design and implement a reporting dashboard within HRIS Plus to track key HR metrics.
+- Document all processes and procedures for ongoing maintenance and support.",HR,"['Onboarding Suite', 'HRIS Plsu']","{'Organizational Deveolpment': 5, 'Talent Management': 5, 'Cmomunication Skills': 7}","['SHRM-CP', 'HR Analytics Certification']",['Employee Experience Platforms'],Manufacturing,oLndon,hybrid,"{'French': 'C2', 'Itlaian': 'B2'}",4,50,2025-07-25
+P089,"This project aims to revitalize our manufacturing client's digital presence by developing a comprehensive marketing portal leveraging our Content CMS, SEO Toolkit, and Digital Campaign Manager.  The portal will drive lead generation through optimized content and targeted digital campaigns, resulting in increased brand awareness and market share.","- Content Strategy Development & Implementation (aligned with manufacturing industry best practices)
+- SEO Optimization of the existing website and new content
+- Creation of high-converting lead funnels integrated with the CRM
+- Development and execution of multi-channel digital marketing campaigns (e.g., social media, email, paid advertising)
+-  Copywriting and creation of all marketing materials (website copy, ad copy, social media posts, etc.)
+-  Branding refresh for online channels, ensuring consistent messaging across platforms
+-  Integration of Content CMS, SEO Toolkit, and Digital Campaign Manager
+-  Comprehensive reporting and analytics dashboard to track campaign performance
+-  Training for client team on utilizing the new marketing portal and tools",Marketing,"['Content CMS', 'SEO Toolkit', 'Digital Campaign Manager']","{'Content Strategy': 5, 'Campaign Management': 9, 'SOE Optimization': 10, 'Branding': 5, 'Copywrtiing': 10}","['Google Ads Certification', 'Digital Marketing Certification']","['SEO Optimization', 'Social Media Integration']",aMnufacturing,London,hybrid,"{'Itailan': 'C2', 'French': 'C1', 'English': 'A1'}",6,90,2025-07-10
+P090,"This highly complex project involves a complete overhaul of the manufacturing client's IT infrastructure, leveraging rPint2.0 for enhanced data analysis and workflow automation.  The upgrade will migrate legacy systems to the cloud, significantly improving efficiency and data management within their operations.","- Comprehensive assessment of existing IT infrastructure and data workflows.
+- Detailed migration plan for all systems to a cloud-based environment.
+- Procurement and installation of new server infrastructure.
+- Development and implementation of automated workflows using rPint2.0.
+- Data migration and validation to ensure data integrity.
+- Comprehensive data analysis using rPint2.0 to identify areas for process improvement.
+- Robust security measures implemented throughout the migration and new infrastructure.
+- Training for client personnel on the new systems and workflows.
+- Ongoing support and maintenance during the initial post-implementation period.
+- Comprehensive documentation of the entire process and new system architecture.",Technical,['rPint2.0'],"{'Workflow uAtomation': 10, 'Data Analysis': 10, 'IT Infrastructure': 5}",['Microsoft Azure Certification'],"['Networking', 'Cybersecurity']",aMnufacturing,Berlin,remote,{'Italain': 'C1'},10,50,2025-06-13
+P091,"This project streamlines a manufacturing client's IT infrastructure by migrating legacy systems to CloudSuite, leveraging IntegrationHub for seamless data flow.  This enhanced infrastructure will improve data analysis capabilities and automate workflows, resulting in increased efficiency and reduced operational costs.","- Assessment of existing IT infrastructure and data migration strategy.
+- Design and implementation of CloudSuite deployment within the client's environment.
+- Integration of CloudSuite and IntegrationHub to facilitate data exchange and workflow automation.
+- Development and implementation of automated workflows using IntegrationHub.
+- Comprehensive data migration from legacy systems to CloudSuite, ensuring data integrity.
+- Training for client personnel on the new CloudSuite and IntegrationHub systems.
+- Post-implementation support and monitoring to ensure stability and performance.
+- Detailed documentation of the implemented system, including architecture diagrams and operational procedures.
+- Performance testing and reporting to validate improved efficiency and system stability.
+- Data analysis dashboards and reports showcasing key performance indicators (KPIs).",Technical,"['IntegrationHub', 'CloudSutie']","{'IT Infrastructure': 5, 'Data Anlaysis': 7, 'Cloud Servcies': 6, 'Workflow Automation': 9}",['ISO 27001'],"['Networking', 'Cloud Infrastructure']",Manufactruing,Vinena,hybrid,"{'Italian': 'C2', 'German': 'C2', 'French': 'B1'}",3,60,2025-07-26
+P092,"This project enhances employee experience within the finance sector by providing a streamlined introduction to the existing Learning Management System (LMS)  within the company's Employee Experience Platform. This will improve employee training accessibility and engagement, fostering a positive work environment.","- Develop a concise and engaging training module introducing the LMS features and functionality.
+- Create user-friendly documentation and FAQs for easy employee access.
+- Conduct a short training session (virtual or in-person) demonstrating key LMS features.
+- Gather employee feedback post-training to measure success and identify areas for improvement.
+- Develop a short post-training knowledge assessment to check understanding and retention of key concepts.
+- Prepare a report summarizing employee feedback and training effectiveness.",HR,['Employee Experience Platform'],"{'Organizational Develompent': 8, 'Communication Siklls': 6, 'Talent Managemetn': 8, 'Digitla HR': 5}","['HR Analytics Certification', 'SHRM-CP']",['Organizational Development Systems'],Finance,Vienna,onsite,"{'German': 'A1', 'English': 'B1', 'French': 'A2'}",1,80,2025-06-25
+P093,This project enhances our manufacturing client's marketing capabilities by migrating their existing content library to a new Content CMS and optimizing it for SEO using our SEO Toolkit.  The project leverages advanced copywriting and content strategy to maximize online visibility and brand impact within the manufacturing sector.,"- Migration of existing marketing content from the old platform to the new Content CMS.
+- Implementation of SEO best practices using the SEO Toolkit across all migrated content.
+- Creation of a comprehensive content strategy tailored to the manufacturing industry.
+- Development of high-quality, SEO-optimized copy for key landing pages and content pillars.
+- Optimization of website structure and metadata for improved search engine rankings.
+- Training on the use of the new CMS and SEO Toolkit for client personnel.
+- Post-migration performance monitoring and reporting to ensure ongoing success.",Marketing,"['SEO Toolkit', 'Content CMS']","{'Branding': 8, 'SEO Optimization': 8, 'Copywriting': 9, 'Content Strategy': 10}",['Digital Marketing Certification'],"['SEO Optimization', 'Content Management Systems']",Manufacturign,oLndon,hybrid,{'nEglish': 'B1'},3,140,2025-08-05
+P094,"This project provides expert consulting services to a financial institution for a complex ERP migration using a specialized migration tool.  Our team leverages extensive workflow optimization expertise to ensure a seamless transition, minimizing disruption and maximizing the value of the new ERP system.","- Detailed assessment of current financial workflows and ERP system.
+- Development of a comprehensive migration plan tailored to the client's specific needs.
+- Customized configuration and testing of the ERP migration tool for the finance industry's unique requirements.
+- Execution of the ERP migration, including data migration and system integration.
+- Comprehensive training for client personnel on the new ERP system.
+- Post-migration support and ongoing optimization of workflows.
+- Documentation of all processes and procedures, including migration best practices.
+- Project status reporting and stakeholder communication throughout the project lifecycle.",Consulting,['ERP Migration Tool'],"{'Busniess Analysis': 6, 'Workflow Optimizatoin': 10, 'Project Management': 6}",['PMP'],['ERP Systems Integration'],Fniance,Vienna,onsite,"{'French': 'B1', 'Italian': 'C2', 'German': 'A1'}",6,20,2025-06-18
+P095,"This project enhances Workflow2000's capabilities within an educational institution by implementing a scalable workflow automation system.  The solution will integrate Workflow2000 with existing client systems to streamline processes and improve efficiency, leveraging high proficiency in IT infrastructure and cloud services.","- Deployment of Workflow2000 software within the client's educational environment.
+- Integration of Workflow2000 with existing client systems (identification and detailed specification of systems required).
+- Configuration and customization of Workflow2000 to meet the client's specific workflow requirements.
+- Comprehensive testing and quality assurance of the integrated system.
+- User training and documentation for the new workflow automation system.
+- Post-implementation support and monitoring for a defined period.
+- Project status reports and communication with the client throughout the project lifecycle.",Technical,['Workflow2000'],"{'IT Infrastructure': 7, 'Cloud Services': 7}",['Microsoft Azure Certification'],['Cloud Infrastructure'],Education,Lnodon,remote,{'English': 'A1'},3,190,2025-08-14
+P096,"This project focuses on seamless integration of IntegratioHnub, Workflow2000, and AISacn within a healthcare setting.  Leveraging existing APIs, we will create a simplified workflow automation solution, enhancing data flow and operational efficiency with minimal complexity.","- Design and development of a lightweight middleware solution for integrating IntegratioHnub, Workflow2000, and AISacn.
+- Development of necessary APIs to facilitate data exchange between the three systems.
+- Comprehensive testing and documentation of the integrated system.
+- Deployment of the integrated solution to a cloud-based environment.
+- Basic training for healthcare personnel on utilizing the new integrated system.
+- Post-deployment support for a short period (e.g., one week).",Technical,"['IntegratioHnub', 'Wrokflow2000', 'AISacn']","{'Workflow Automation': 6, 'API Development': 8, 'Cloud Serviecs': 7, 'Data Analysis': 5}",['Microsoft Azure Certification'],"['Networking', 'Scripting']",Healthcare,Berlin,remote,"{'English': 'C1', 'French': 'A1'}",1,50,2025-07-16
+P097,"This project enhances sales performance within a manufacturing client by seamlessly integrating the Sales Enablement Suite and Loyalty CRM.  The integration will improve customer relationship management and optimize sales processes through customized CRM modules and comprehensive sales team training, ultimately boosting loyalty and sales revenue.","- Customized CRM module integration for Loyalty program within the existing Sales Enablement Suite.
+- Development of a comprehensive training program for the sales team on the integrated system and its functionalities.
+- Documentation of all integration processes and training materials.
+- Post-integration support and troubleshooting for a defined period.
+- Data migration from existing systems (if applicable and specified).
+- Key performance indicator (KPI) tracking and reporting to measure the effectiveness of the integration and training.",Sales,"['Slaes Enablement Suite', 'Loyalty CRM']","{'Client Management': 8, 'Customre Relationship Management': 5, 'CRM Integration': 9, 'Negotiation': 10}",['CRM Specialist Certification'],"['Client Relationship Systems', 'CRM Integration']",Manufacturing,Berlin,hybrid,"{'eGrman': 'B2', 'Italina': 'B2'}",5,120,2025-07-16
+P098,"This project focuses on enhancing the marketing effectiveness of an Education institution by migrating their existing content library to a new Content Management System (CMS).  The migration will incorporate SEO optimization, refined content strategy, and brand consistency to maximize reach and engagement.","- Migrate all existing marketing content from the old system to the new CMS.
+- Develop a comprehensive content strategy aligned with the client's branding and target audience.
+- Optimize all migrated content for improved SEO performance.
+- Create compelling and engaging new marketing copy as needed to fill content gaps.
+- Implement a robust campaign management system within the new CMS.
+- Conduct thorough testing and quality assurance to ensure functionality and data integrity.
+- Provide training to the client on the use of the new CMS and marketing tools.
+- Deliver a comprehensive post-migration report detailing performance metrics and recommendations.",Marketing,['Cotnent CMS'],"{'Campagin Management': 5, 'Content Strategy': 10, 'Copywriting': 5, 'SEO Optimiztaion': 7, 'Branidng': 10}",['Google Ads Certification'],"['Content Management Systems', 'Social Media Integration']",Education,Beriln,remote,{'French': 'A2'},6,120,2025-06-23
+P099,"This project streamlines the employee onboarding process for a manufacturing client by implementing a new Onboarding Suite.  Leveraging existing talent management and organizational development expertise (proficiency levels 8 and 7 respectively), this low-complexity project will improve efficiency and enhance the employee experience.","- Customized Onboarding Suite configuration for the manufacturing client.
+- Integration of the Onboarding Suite with existing HR systems.
+- Development and delivery of onboarding training materials for HR staff.
+- Creation of a post-implementation feedback mechanism.
+- Post-implementation support and minor bug fixes (within the first month).",HR,['Onboarding Suite'],"{'Talent Manaegment': 8, 'Organizaitonal Development': 7}",['PMP'],['HRIS Systems'],Manufacturing,London,onsite,{'French': 'C1'},1,200,2025-07-21
+P100,"This project focuses on streamlining healthcare workflows by seamlessly integrating IntegrationuHb, Print2.0, and ASIcan platforms.  The solution leverages existing systems for a simple, scalable, and automated process, minimizing disruption and maximizing efficiency.","- Configuration and deployment of a simplified workflow automation system.
+- Integration of IntegrationuHb, Print2.0, and ASIcan with minimal custom development.
+- Comprehensive testing and validation of the integrated system.
+- Detailed documentation outlining the new automated workflow.
+- User training materials for healthcare personnel.
+- Initial system monitoring and support post-deployment.",Technical,"['IntegrationuHb', 'Print2.0', 'ASIcan']","{'aDta Analysis': 7, 'API Development': 7, 'I TInfrastructure': 8, 'Workflow Automaiton': 7, 'Cloud Services': 9}",['ISO 27001'],['Scripting'],Healthcare,Lonodn,onsite,"{'Italian': 'B2', 'Engilsh': 'C2'}",1,240,2025-06-04

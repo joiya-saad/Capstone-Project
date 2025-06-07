@@ -1,0 +1,114 @@
+/* Basic Custom CSS for HR Mate AI - Canon Theme Inspired (Initial) */
+
+/* Apply a global font, if Canon has a specific one, use it here */
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* Example font */
+    background-color: #f8f9fa; /* Light grey background */
+}
+
+/* Primary button styling - inspired by Canon's red */
+.stButton>button {
+    border: 2px solid #D9000D; /* Canon Red */
+    background-color: #D9000D;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.3rem;
+    font-weight: bold;
+}
+
+.stButton>button:hover {
+    background-color: #A8000A; /* Darker Canon Red for hover */
+    border-color: #A8000A;
+    color: white;
+}
+
+/* Headings */
+h1, h2, h3 {
+    color: #333; /* Dark grey for text */
+}
+
+/* Sidebar styling */
+/* Default Streamlit sidebar class is .css-1d391kg, but this can change. 
+   A more robust way might involve data-testid attributes if available, or broader targeting. */
+section[data-testid="stSidebar"] {
+    background-color: #ffffff; /* White sidebar */
+    border-right: 1px solid #e0e0e0;
+}
+
+/* Selected project details in sidebar */
+section[data-testid="stSidebar"] .stMarkdown strong {
+ color: #D9000D; /* Canon red for emphasized text like labels */
+}
+
+/* Metric styling for rank and score */
+.stMetric {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    padding: 1rem;
+    border-radius: 0.3rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+/* Chips - Placeholder for future use. Streamlit doesn't have native chips.
+   We might need to use HTML/CSS for this or a custom component. */
+.chip {
+    display: inline-block;
+    padding: 0.4em 0.7em;
+    margin: 0.2em;
+    font-size: 0.8em;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0.25rem;
+    color: #fff;
+    background-color: #5A5A5A; /* Default chip color - can be customized */
+}
+
+.chip.skill {
+    background-color: #007bff; /* Blue for skills */
+}
+
+.chip.product {
+    background-color: #28a745; /* Green for products */
+}
+
+/* Styling for expanders */
+.stExpander {
+    border: 1px solid #e0e0e0;
+    border-radius: 0.3rem;
+    margin-top: 0.1rem; /* Bring closer to title markdown above */
+    margin-bottom: 0.2rem; /* Minimal space between candidate entries */
+}
+
+.stExpander header {
+    font-weight: bold;
+    background-color: #f0f2f6;
+    padding: 0.5rem 1rem;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+/* Custom divider for scores inside expander */
+/* Markdown used for candidate titles (Rank, Name, Badges) */
+/* This selector might need adjustment based on actual Streamlit output */
+div[data-testid="stMarkdownContainer"] > p {
+    margin-top: 0.2rem !important; 
+    margin-bottom: 0.1rem !important; /* Reduce space before expander */
+    line-height: 1.2; /* Adjust if text feels too cramped */
+}
+
+/* Special handling for the first title in the list to have a bit more top margin */
+/* This assumes the results are in a container; might need a wrapper div in streamlit_app.py */
+/* For now, this is a general rule. If specific targeting is needed, we'll adjust. */
+
+
+hr.score-divider {
+    margin-top: 0.6rem;
+    margin-bottom: 0.8rem;
+    border: 0;
+    border-top: 1px solid #e0e0e0; /* Light grey, consistent with other borders */
+}
+
+/* Further Canon-specific theming will require more detailed inspection of their brand guidelines
+   and potentially more complex CSS or Streamlit custom components. */
