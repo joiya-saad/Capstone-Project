@@ -1,3 +1,6 @@
+**Matching Employees To Projects**
+
+
 This repository is dedicated for my Capstone Project Submitted to Central European University - Department of Economics, in partial fulfilment of the requirements for the degree of Master of Science in Business Analytics.
 
 The project entailed a matching algorithm for ranking current employees based on incoming project requirements. 
