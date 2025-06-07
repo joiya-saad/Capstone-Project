@@ -8,8 +8,11 @@ The project entailed a matching algorithm for ranking current employees based on
 The repository contains:
 
 Project Report : Detailing complete details of my project including ideas, algorithms, tools, implementation and results.
+
 Project Presentation: Summarizes the key aspects of the report.
+
 Capstone POC Implementation Python file: Showcases the proof of concept in a stand alone jupyter notebook.
+
 Weighted Scores CSV: Outlines the results of the running POC Python file to understand and showcase matching algorithm and tabular results.
 
 HR-AI-Mate: Folder containing all codes/files for streamlit deployment of our project on a VM using dockers. This dashboard encapsulates the complete workflow for our project.
